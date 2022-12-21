@@ -1,6 +1,6 @@
 ---
 name: Vardhan Dongre
-role: Lead Teaching Assistant
+role: Teaching Assistant
 email: na
 website: 
 photo: avatar.jpeg
