@@ -14,7 +14,7 @@ description: The weekly event schedule.
 
 
 |Week |Lecture #|Lecture Topic &nbsp; &nbsp; &nbsp; &nbsp;|Slides|Reading|Quizzes| 
-|-|-|------|-|-|-|
+|-|:---:|------|-|-|-|
 |Week 1|1|Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>| Orientation Quiz Week 1 Quiz| 
 | |2|What is data science?|<a href = "https://uofi.box.com/s/y6a59eg6qc2knvjo57lxma5dotrz7tdg">pdf</a>| | | 
 | |3|What is data curation?|<a href = "https://uofi.box.com/s/uhjsoyxcnuowpqm1gghs3x8wmkdm1wy7">pdf</a>| | | 
@@ -38,24 +38,24 @@ description: The weekly event schedule.
 | |3|The Solution: Ontologies|<a href = "https://uofi.box.com/s/21p5er23idqgtwc4kakgsl5hduitjkgq">pdf</a>| | | 
 | |4|An ER/Ontology Example: FRBR|<a href = "https://uofi.box.com/s/e44z4h56zmi1iogesy942a69u81ypnp5">pdf</a>| | | 
 | |5|Implementing Ontologies in RDF/RDFS|<a href = "https://uofi.box.com/s/ihv3u4dou3pd96jlt4j201c3ugwph0gu">pdf</a>| | | 
-|Week 5|1|Week 5 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>|Week 5 Quiz| 
+|Week 5|1|Week 5 Introduction| |<a href = "https://www.researchgate.net/profile/Chaitan-Baru/publication/200043101_Managing_scientific_data_From_data_integration_to_scientific_workflows/links/09e41506c4ea953425000000/Managing-scientific-data-From-data-integration-to-scientific-workflows.pdf"> Reading 1</a><br /> <a href = "https://www.vldb.org/conf/2006/p9-halevy.pdf"> Reading 2</a>|Week 5 Quiz| 
 | |2|Data Cleaning, Data Integration|<a href = "https://uofi.box.com/s/l5mz5d1p91tvh1nj91v3wevibmr30mnx">pdf</a>| | | 
 | |3|Managing Heterogeneity|<a href = "https://uofi.box.com/s/a0g0uo6dxf8fsh27isxmbwbnq56x8y22">pdf</a>| | | 
 | |4|Schema Integration|<a href = "https://uofi.box.com/s/up9nib946f6hgtp6xlhrytx5o8un29pg">pdf</a>| | | 
 | |5|Schema Integration: an example|<a href = "https://uofi.box.com/s/trz85tle33bl26iskqsk8t3s3wwkvz7q">pdf</a>| | | 
-|Week 6|1|Week 6 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>|Week 6 Quiz| 
+|Week 6|1|Week 6 Introduction| |<a href = "https://uofi.box.com/s/ktvmlkkd29eoi33chphxu0d5w5u6q2gp"> Reading 1</a>|Week 6 Quiz| 
 | |2|What is data? A first attempt|<a href = "https://uofi.box.com/s/pyhjtbhr4yw5i2j0b7sluh3nr5yaxcmg">pdf</a>| | | 
 | |3|The Identity Problem|<a href = "https://uofi.box.com/s/18f9if4l573yz4h88o2qne6shwem37p4">pdf</a>| | | 
 | |4|Some Ontological Analysis|<a href = "https://uofi.box.com/s/khx75g4kfmaeg1gtoco2hxzjyblccakg">pdf</a>| | | 
 | |5|A Way Forward: Roles and Types|<a href = "https://uofi.box.com/s/h2icqntsevbuxjyebamj0bh6gnse1ode">pdf</a>| | | 
 | |6|An Ontology for Data Concepts|<a href = "https://uofi.box.com/s/25lhmooe7pdi9ethhcnauo9vo9rd6n5w">pdf</a>| | | 
 | |7|What is data?|<a href = "https://uofi.box.com/s/71kdb2yepgr1mnmbthr5gjpjjbk64h6b">pdf</a>| | | 
-|Week 7|1|Week 7 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>|Week 7 Quiz| 
+|Week 7|1|Week 7 Introduction| |<a href = "https://courses.cs.washington.edu/courses/csep544/04sp/lectures/bernstein03.pdf"> Reading 1</a><br /> <a href = "https://groups.niso.org/higherlogic/ws/public/download/17446/Understanding%20Metadata.pdf"> Reading 2</a><br /> <a href = "http://users.eecs.northwestern.edu/~wkliao/XML/Managing_Sci_Metadata.pdf"> Reading 3</a><br /> <a href = "https://dl.acm.org/doi/pdf/10.1145/1107499.1107503?casa_token=V2GakgYwInMAAAAA:NLEQQKDOIO29NCvVcMv_FOrVo6xd4yGo7lRa4rgJ93nedtcbRl1GDFBdA-vflg0zvrnr6gxeJB4v6A"> Reading 4</a>|Week 7 Quiz| 
 | |2|What is Metadata?|<a href = "https://uofi.box.com/s/tmtoh0ua2lpu7ga9pjbt1k6ygn3gutji">pdf</a>| | | 
 | |3|Metadata Schemas|<a href = "https://uofi.box.com/s/rd0oz39r98yseljt7yunuypas0o4kx9m">pdf</a>| | | 
 | |4|Common Metadata Ambiguities|<a href = "https://uofi.box.com/s/z7bgl06v9a3z00x2q737zwxcaht473vx">pdf</a>| | |
 | |5|How does metadata support data curation?|<a href = "https://uofi.box.com/s/v29zwq7uly0j5aahitu30vxyzz9mywwg">pdf</a>| | |
-|Week 8|1|Week 8 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>| [Graded] Assignment 3 Data Privacy Quiz |
+|Week 8|1|Week 8 Introduction| |<a href = "https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act"> Reading 1</a><br /> <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3126798/pdf/pone.0021101.pdf"> Reading 2</a>| [Graded] Assignment 3 Data Privacy Quiz |
 | |2|Data Practices|<a href = "https://uofi.box.com/s/c5366b5873wumpa88fi0uz2ss1jnasn5">pdf</a>| | | 
 | |3|What’s going on in the lab?|<a href = "https://uofi.box.com/s/xk8kku94cmjbo57dkg32sjjng04k10c3">pdf</a>| | | 
 | |4|Data sharing|<a href = "https://uofi.box.com/s/ev4v83vtfllq4as0e9emq4wrhnovcfbi">pdf</a>| | | 
