@@ -25,6 +25,8 @@ description: A listing of all the course staff members.
 
 
 {% assign course_staff = site.staffers | where: 'role', 'Course Staff' %}
+{% assign num_course_staff = course_staff | size %}
+{% if num_course_staff != 0 %}
 ## Course Staff
 
 {% for staffer in course_staff %}
