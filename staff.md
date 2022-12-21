@@ -22,3 +22,10 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+## Course Staff
+
+{% for staffer in course staff %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
