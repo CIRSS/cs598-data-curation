@@ -67,8 +67,7 @@ important to data science.
 
 ## Grade Policy
 
-Grading is based on Assignments, Quizzes and Final Exam. Detailed grading scale
-is provided in the Course Syllabus on Coursera. Each Graded Assessment typically carries 20%
+Grading is based on Assignments, Quizzes and Final Exam. Each Graded Assessment typically carries 20%
 weightage.
 
 | Letter Grade | Percent Needed                 | Letter Grade | Percent Needed | Letter Grade | Percent Needed |
