@@ -93,3 +93,4 @@ description: The weekly event schedule.
 | |4|Privacy|<a href = "https://uofi.box.com/s/zwn0ssivhl719i12lmsl62gtrzx0alf6">pdf</a>| | | 
 | |5|Panel Discussion| | |
 |**Week 16**|1|Practical Data Curation: What is it?|<a href = "">pdf</a>| | | 
+| | |**Final Exam**|-|-|-|
