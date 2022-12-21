@@ -26,14 +26,14 @@ description: The weekly event schedule.
 | |4|The Relational Model|<a href = "https://uofi.box.com/s/m42ubdod0d4m47y6dhk0sl0q32du7svc">pdf</a>| | | 
 | |5|How is the Relational Model Implemented?|<a href = "https://uofi.box.com/s/eszrhhi9d402jh3b54zjug4bc512n82s">pdf</a>| | | 
 | |6|Abstraction, Indirection &amp; Data Independence|<a href = "https://uofi.box.com/s/q4xlmezecqaa9s46idstjl5gk73r64jg">pdf</a>| | |
-|Week 3|1|Week 3 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>|Week 3 Quiz| 
+|Week 3|1|Week 3 Introduction| |<a href = "http://web.dfc.unibo.it/buzzetti/IUcorso2006-07/mdidattici/ohco.pdf"> Reading 1</a><br /> <a href = "https://tei-c.org/release/doc/tei-p5-doc/en/html/SG.html"> Reading 2</a>|Week 3 Quiz| 
 | |2|Text and Documents|<a href = "https://uofi.box.com/s/yd5m2fih1yimywz2bs13juv6dv6p7hxc">pdf</a>| | | 
 | |3|The Problem|<a href = "https://uofi.box.com/s/t9qapepzbs4ximm3yu0pu3z9zpnfpb75">pdf</a>| | |
 | |4|The Solution: (1) Descriptive Markup|<a href = "https://uofi.box.com/s/pu78sfoxbu917ifq8i07tidfktabm9eb">pdf</a>| | | 
 | |5|The Solution: (2) Trees|<a href = "https://uofi.box.com/s/9ft4i7lov0c2ff08mc8bj3cclgtpt5qu">pdf</a>| | | 
 | |6|Why The Solution Works|<a href = "https://uofi.box.com/s/ybmcr24nts13040e2jj3it5hx4mggdxv">pdf</a>| | | 
 | |7|Implementing The Solution: XML|<a href = "https://uofi.box.com/s/cnj2unli8jpeegk0xi6tnmcf8wzw09tm">pdf</a>| | | 
-|Week 4|1|Week 4 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>|Week 4 Quiz| 
+|Week 4|1|Week 4 Introduction| |<a href = "https://dl.acm.org/doi/pdf/10.1145/320434.320440"> Reading 1</a><br /> <a href = "https://www.ifla.org/wp-content/uploads/2019/05/assets/cataloguing/frbr/frbr_2008.pdf"> Reading 2</a><br/><a href = "https://www.researchgate.net/profile/David-Dubin-2/publication/2934664_Towards_a_Semantics_for_XML_Markup/links/09e4150b7c7d01545c000000/Towards-a-Semantics-for-XML-Markup.pdf"> Reading 3</a>|Week 4 Quiz| 
 | |2|The Problem: Connecting Data to Information|<a href = "https://uofi.box.com/s/olu2a1125t5lovv6vi287pxiplq66pub">pdf</a>| | | 
 | |3|The Solution: Ontologies|<a href = "https://uofi.box.com/s/21p5er23idqgtwc4kakgsl5hduitjkgq">pdf</a>| | | 
 | |4|An ER/Ontology Example: FRBR|<a href = "https://uofi.box.com/s/e44z4h56zmi1iogesy942a69u81ypnp5">pdf</a>| | | 
