@@ -92,5 +92,5 @@ description: The weekly event schedule.
 | |15.3|A whirlwind tour of science-oriented data policies|<a href = "https://uofi.box.com/s/z0n2w632r54q369nju9rhrmnjcak6vpv">pdf</a>| | | 
 | |15.4|Privacy|<a href = "https://uofi.box.com/s/zwn0ssivhl719i12lmsl62gtrzx0alf6">pdf</a>| | | 
 | |15.5|Panel Discussion| | |
-|**Week 16**|16.1|**Practical Data Curation: What is it?**|<a href = "">pdf</a>| | | 
+|**Week 16**|16.1|**Practical Data Curation: What is it?**|<a href = "https://uofi.box.com/s/lrrepj1ybctvpkshi8bezxd7t6dnffw7">pdf</a>| | | 
 | | |**Final Exam**|-|-|-|
