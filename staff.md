@@ -23,9 +23,11 @@ description: A listing of all the course staff members.
 {% endfor %}
 {% endif %}
 
+
+{% assign course_staff = site.staffers | where: 'role', 'Course Staff' %}
 ## Course Staff
 
-{% for staffer in course staff %}
+{% for staffer in course_staff %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
