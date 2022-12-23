@@ -25,6 +25,6 @@ description: A listing of all the course staff members.
 {% endif %}
 
 ## Previous Staff
-Fall 2022: Vardhan Dongre; Sandip Sonawane; Hang Xie; Abhinav Reddy; Chandana Bitra; Pranith Bottu; Sudharsan K A; Shubham Mehta; Aakansha Singh
-Fall 2021: Vardhan Dongre; Sarthak Mishra; Sandip Sonawane; Chandana Bitra; Pranith Bottu; Shubham Mehta; Aakansha Singh
-Fall 2020: Jacob Jett; Vardhan Dongre; Pankaj Sharma; Suyoung Park; Shrilesh Kathe
+**Fall 2022:** Vardhan Dongre; Sandip Sonawane; Hang Xie; Abhinav Reddy; Chandana Bitra; Pranith Bottu; Sudharsan K A; Shubham Mehta; Aakansha Singh <br />
+**Fall 2021:** Vardhan Dongre; Sarthak Mishra; Sandip Sonawane; Chandana Bitra; Pranith Bottu; Shubham Mehta; Aakansha Singh <br />
+**Fall 2020:** Jacob Jett; Vardhan Dongre; Pankaj Sharma; Suyoung Park; Shrilesh Kathe <br />
