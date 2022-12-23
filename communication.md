@@ -14,9 +14,9 @@ This course uses Campuswire for communication. This will be your go-to place to 
 - Campuswire passcode: 
 
 ## Staff Office Hour:
+Instructor and TA office hours schedule and zoom links will be available via Coursera Live Events
 
-
-<table>
+<!-- <table>
 <tr>
     <th>Name</th>
     <th>Office hour time</th>
@@ -29,4 +29,4 @@ This course uses Campuswire for communication. This will be your go-to place to 
  <td><a href="{{ staffer.officehourlink }}">link</a></td>
 </tr>
 {%- endfor -%}
-</table>
+</table> -->
