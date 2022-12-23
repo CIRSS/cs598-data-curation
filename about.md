@@ -38,11 +38,8 @@ design, which will be very helpful but not required.
 
 The field of Data Science is a fast-moving, empirically driven research field. Learning about such a fast-moving field is an exciting opportunity but covering it in a traditional course setting comes with some caveats. There are very few high-quality Data Curation textbooks or other learning materials that synthesize or explain much of the content we will cover. In many cases the research paper that introduced an idea is the best or only resource for learning about it. Data exists in different forms and modalities which requires carefully developed curation methods. The focus of this course is not to teach a specific tool or language for data curation but instead help you recognize key challenges in management of data and develop effective strategies to tackle them.
 
-<!-- ## Course Statistics (Previous offering)
-![plot](./assets/images/assignment_difficulty.png)
-![plot](./assets/images/course_content.png)
-![plot](./assets/images/level_of_effort.png)
-![plot](./assets/images/final_difficulty.png) -->
+## Course Reviews (Previous offering)
+Fall 2022: [Anonymous Student Reviews](https://uofi.box.com/s/iwilwmjftsma1iomd8z9vzw3acxifu7o)
 
 ## Course Objectives
 
