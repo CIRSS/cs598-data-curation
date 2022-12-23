@@ -11,7 +11,7 @@ This course uses Campuswire for communication. This will be your go-to place to 
 ## Campuswire
 
 - [Campuswire Link](https://campuswire.com/c/GFE888E31/feed)<br/>
-- Campuswire passcode: 
+- Campuswire passcode: Passcode will be posted on the Course Communication page in Coursera
 
 ## Staff Office Hour:
 Instructor and TA office hours schedule and zoom links will be available via Coursera Live Events
