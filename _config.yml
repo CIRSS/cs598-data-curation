@@ -1,74 +1,40 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole site, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+author: The University of Illinois Board of Trustees 
+copyright: 2022-2023
+logo: logo.png
 title: Foundations of Data Curation
-tagline: 
-description: CS598
-author: Abhinav Reddy
-baseurl: / # the subpath of your site, e.g. /blog
-url: https://abhinav-thimma.github.io # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", README.md, .github/**"]
+only_build_toc_files: true
 
-# Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
-color_scheme: light
-search_enabled: true
-heading_anchors: true
-permalink: pretty
-aux_links:
-footer_content:
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: force
 
-# Collections for website data
-collections:
-  staffers:
-  modules:
-  schedules:
-  announcements:
-# Default layouts for each collection type
-defaults:
-  - scope:
-      path: ''
-      type: staffers
-    values:
-      layout: staffer
-      height: 300
-      subpath: '/assets/images/'
-      width: 300
-  - scope:
-      path: ''
-      type: modules
-    values:
-      layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
-  - scope:
-      path: ''
-      type: announcements
-    values:
-      layout: announcement
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
 
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
 
-plugins:
-  - jekyll-seo-tag
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/craig-willis/jb-test  # Online location of your book
+  path_to_book: docs  # Optional path to your book, relative to the repository root
+  branch: master  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+html:
+  favicon: favicon.ico
+  use_issues_button: true
+  use_repository_button: true
+
+sphinx:
+  config:
+    html_theme_options:
+      search_bar_text: "Search..."
