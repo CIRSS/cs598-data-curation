@@ -1,0 +1,645 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Syllabus &#8212; Foundations of Data Curation</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <link rel="shortcut icon" href="_static/favicon.ico"/>
+    <link rel="author" title="About these documents" href="about.html" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Assignments" href="assignments.html" />
+    <link rel="prev" title="Welcome" href="about.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="_static/logo.png" class="logo" alt="logo">
+      
+      
+      <h1 class="site-logo" id="site-title">Foundations of Data Curation</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search..." aria-label="Search..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        <ul class="current nav bd-sidenav">
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   Syllabus
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="assignments.html">
+   Assignments
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="communication.html">
+   Communication
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="schedule.html">
+   Weekly Schedule
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="staff.html">
+   Course Staff
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Theme by the <a href="https://ebp.jupyterbook.org">Executable Book Project</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/syllabus.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#course-description">
+   Course Description
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#textbook">
+   Textbook
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#prerequisites">
+   Prerequisites
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#course-expectations">
+   Course Expectations
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#course-reviews-previous-offering">
+   Course Reviews (Previous offering)
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#course-objectives">
+   Course Objectives
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#grade-policy">
+   Grade Policy
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#grading">
+   Grading
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#late-policy">
+   Late Policy
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#academic-integrity">
+   Academic Integrity
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#disability-accommodations">
+   Disability Accommodations
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#mental-health">
+   Mental Health
+  </a>
+ </li>
+</ul>
+
+    </nav>
+</div>
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Syllabus</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#course-description">
+   Course Description
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#textbook">
+   Textbook
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#prerequisites">
+   Prerequisites
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#course-expectations">
+   Course Expectations
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#course-reviews-previous-offering">
+   Course Reviews (Previous offering)
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#course-objectives">
+   Course Objectives
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#grade-policy">
+   Grade Policy
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#grading">
+   Grading
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#late-policy">
+   Late Policy
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#academic-integrity">
+   Academic Integrity
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#disability-accommodations">
+   Disability Accommodations
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#mental-health">
+   Mental Health
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
+              <div>
+                
+  <section class="tex2jax_ignore mathjax_ignore" id="syllabus">
+<h1>Syllabus<a class="headerlink" href="#syllabus" title="Permalink to this headline">#</a></h1>
+<section id="course-description">
+<h2>Course Description<a class="headerlink" href="#course-description" title="Permalink to this headline">#</a></h2>
+<p>Data curation, the management of data in support of analysis and use, is a
+critical activity within data science. Without adequate data curation data
+cannot be used effectively, efficiently, or reliably. Because of its importance
+and its challenging nature, data curation typically involves more time,
+attention, staff, and expenditures, than does data analytics.  Activities of
+particular concern to data curation are data modeling, integration, workflow
+management, format conversion, provenance documentation, preservation, integrity
+and validity determination, data cleaning, standards conformance, identifier
+management, metadata management, retrieval support, re-use issues, governance,
+regulatory compliance, and security, among others. This course provides a survey
+of theoretical and practical topics in data curation.</p>
+</section>
+<section id="textbook">
+<h2>Textbook<a class="headerlink" href="#textbook" title="Permalink to this headline">#</a></h2>
+<p>There is no required textbook for this course, but there are weekly required and optional
+readings that can be found in each weekly overview page.</p>
+</section>
+<section id="prerequisites">
+<h2>Prerequisites<a class="headerlink" href="#prerequisites" title="Permalink to this headline">#</a></h2>
+<p>Basic programming skills are required. Although the course also assumes that
+most students will have some familiarity with relational databases, conceptual
+modeling, and markup languages, these will be briefly reviewed as needed.</p>
+</section>
+<section id="course-expectations">
+<h2>Course Expectations<a class="headerlink" href="#course-expectations" title="Permalink to this headline">#</a></h2>
+<p>Unlike other courses in data science programs, introductory data curation
+courses are not primarily concerned with learning particular analytic techniques
+and instead focus on recognizing curatorial challenges, analyzing those
+challenges, identifying interventions, and justifying recommendations. As such,
+assignments include fewer problem sets or programming projects and more written
+explanations.</p>
+<p>Students often find that providing the code, schema or solution for an exercise
+is not as difficult as describing the anlaysis behind a decision. While written
+responses may feel subjective, this is all the more reason to write carefully,
+clearly, and in sufficient detail so that the thinking and analysis behind your
+response is evident. In any case, this sort of subjectivity and complexity is
+common in the worplace, as you likely already know.  If it helps, you can
+imagine that you are justifying a proposal to a skeptical director of
+engineering.</p>
+<p>In addition, because the specific technical approaches to curatorial problems
+change rapidly, we will be asking you to read more research articles and classic
+discussions of basic principles. The fundamental ideas presented in these
+articles will not change as rapidly as techniques and practices change, so these
+will better prepare you for the challenges ahead and not just those of
+the present.</p>
+</section>
+<section id="course-reviews-previous-offering">
+<h2>Course Reviews (Previous offering)<a class="headerlink" href="#course-reviews-previous-offering" title="Permalink to this headline">#</a></h2>
+<p>Fall 2022: <a class="reference external" href="https://uofi.box.com/s/iwilwmjftsma1iomd8z9vzw3acxifu7o">Anonymous Student Reviews</a></p>
+</section>
+<section id="course-objectives">
+<h2>Course Objectives<a class="headerlink" href="#course-objectives" title="Permalink to this headline">#</a></h2>
+<p>Upon successful completion of this course, you will:</p>
+<ul class="simple">
+<li><p>Recognize the importance of physical and logical data independence as critical
+system requirements and be able to identify data curation strategies that use
+abstraction and indirection to achieve those requirements.</p></li>
+<li><p>Recognize how key data abstraction strategies are related to each other both
+at the same level of abstraction and also across levels of abstraction.</p></li>
+<li><p>Understand the role of conceptual modeling, ontologies, and knowledge graphs in data modeling.</p></li>
+<li><p>Learn a framework of fundamental concepts of data representation.</p></li>
+<li><p>Recognize the common challenges in data integration, and how they can be addressed.</p></li>
+<li><p>Recognize the importance of workflow management and provenance documentation
+in ensuring efficiency, trustworthiness, and reproducibility.</p></li>
+<li><p>Understand the trade-offs for common data preservation strategies.</p></li>
+<li><p>Recognize the complex problems with data set identity at different levels of
+abstraction and be familiar with challenges in determining both data identity
+and data representation identity.</p></li>
+<li><p>Understand the cross-cutting importance of metadata in data curation activities.</p></li>
+<li><p>Recognize the different kinds and levels of data standards and the different
+levels of both data conformance and processor conformance.</p></li>
+<li><p>Recognize the relevance of empirical research on the information behavior of
+data creators, managers, analysts, and users.</p></li>
+<li><p>Recognize the distinctive data curation needs of machine learning.</p></li>
+<li><p>Recognize how machine learning can help address curatorial problems.</p></li>
+<li><p>Be familiar with the of significance of governance, policy, law, and ethics in data science.</p></li>
+</ul>
+</section>
+<section id="grade-policy">
+<h2>Grade Policy<a class="headerlink" href="#grade-policy" title="Permalink to this headline">#</a></h2>
+<p>Grading is based on Assignments, Quizzes and Final Exam. Each Graded Assessment typically carries 20%
+weightage.</p>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Letter Grade</p></th>
+<th class="head"><p>Percent Needed</p></th>
+<th class="head"><p>Letter Grade</p></th>
+<th class="head"><p>Percent Needed</p></th>
+<th class="head"><p>Letter Grade</p></th>
+<th class="head"><p>Percent Needed</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>A+</p></td>
+<td><p>Instructor’s Discretion</p></td>
+<td><p>B+</p></td>
+<td><p>85%</p></td>
+<td><p>C</p></td>
+<td><p>70%</p></td>
+</tr>
+<tr class="row-odd"><td><p>A</p></td>
+<td><p>90%</p></td>
+<td><p>B</p></td>
+<td><p>80%</p></td>
+<td><p>D</p></td>
+<td><p>60%</p></td>
+</tr>
+<tr class="row-even"><td><p>A-</p></td>
+<td><p>88%</p></td>
+<td><p>B-</p></td>
+<td><p>78%</p></td>
+<td><p>F</p></td>
+<td><p>Below 58%</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="grading">
+<h2>Grading<a class="headerlink" href="#grading" title="Permalink to this headline">#</a></h2>
+<ol class="simple">
+<li><p>Assignments (19-20% each): There will be 4 mini project style assignments</p></li>
+<li><p>Peer Review (1%): Some assignments are peer reviewed prior submitting to staff grading, 1%
+grade is based on the average score assigned to you by your peers in the class.</p></li>
+<li><p>Final exam (20%): The final exam will cover the entire semester</p></li>
+</ol>
+</section>
+<section id="late-policy">
+<h2>Late Policy<a class="headerlink" href="#late-policy" title="Permalink to this headline">#</a></h2>
+<p>Unless otherwise specified, all assignments are due at 11:59 PM US Central Time on the due date. Considering the large size of this class, we typically DO NOT accept any late assignments. We encourage everyone to finish the assignments before the deadline. Please
+do not email the staff requesting to accept assignment with late penalty. In case of extenuating circumstances extensions are granted at the discretion of course staff. In such circumstances please reach out to TAs or post email to <a class="reference external" href="mailto:mcs-support&#37;&#52;&#48;illinois&#46;edu">mcs-support<span>&#64;</span>illinois<span>&#46;</span>edu</a></p>
+</section>
+<section id="academic-integrity">
+<h2>Academic Integrity<a class="headerlink" href="#academic-integrity" title="Permalink to this headline">#</a></h2>
+<p>You are welcome to discuss assignments with your classmates, but do not
+show or share any code. Also, you may not use any code from the Internet or any other outside
+sources, unless it is specifically approved by the instructor. Be sure to acknowledge any help that you do get from other students or outside works, even if it’s just a small suggestion. Violations will go on record at the university, and the minimum penalty will be a zero for the entire assignment. Read Here These standards will be enforced and infractions of these rules will not be tolerated in this course. Sharing, copying, or providing any part of a homework solution or code is an infraction of the University’s rules on academic integrity. We will be actively looking for violations of this policy in homework submissions. Any violation will be punished as severely as possible with sanctions and penalties typically ranging from a failing grade on this assignment up to a failing grade in the course, including a letter of the offending infraction kept in the student’s permanent university
+record. Again, a good rule of thumb: Keep every typed word and piece of code your own. If you
+think you are operating in a gray area, you probably are. If you would like clarification on specifics, please contact the course staff.</p>
+</section>
+<section id="disability-accommodations">
+<h2>Disability Accommodations<a class="headerlink" href="#disability-accommodations" title="Permalink to this headline">#</a></h2>
+<p>Students with learning, physical, or other disabilities requiring
+assistance should contact the instructor as soon as possible. If you’re unsure if this applies to you or think it may, please contact the instructor and Disability Resources and Educational Services(DRES) as soon as possible. You can contact DRES at 1207 S. Oak Street, Champaign, via phone at (217) 333-1970, or via email at <a class="reference external" href="mailto:disability&#37;&#52;&#48;illinois&#46;edu">disability<span>&#64;</span>illinois<span>&#46;</span>edu</a></p>
+</section>
+<section id="mental-health">
+<h2>Mental Health<a class="headerlink" href="#mental-health" title="Permalink to this headline">#</a></h2>
+<p>Significant stress, mood changes, excessive worry, substance/alcohol misuse or
+interferences in eating or sleep can have an impact on academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings which are covered through the Student Health Fee. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University’s resources provided below. Getting help is a smart and courageous thing to do for yourself and for those who care about you.</p>
+<ul class="simple">
+<li><p>Counseling Center (217) 333-3704</p></li>
+<li><p>McKinley Health Center (217) 333-2700</p></li>
+<li><p>National Suicide Prevention Lifeline (800) 273-8255</p></li>
+<li><p>Rosecrance Crisis Line (217) 359-4141 (available 24/7, 365 days a year)
+If you are in immediate danger call 911</p></li>
+</ul>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+    <a class='left-prev' id="prev-link" href="about.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">Welcome</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="assignments.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Assignments</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            </footer>
+        </div>
+    </div>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By The University of Illinois Board of Trustees<br/>
+  
+      &copy; Copyright 2022-2023.<br/>
+</p>
+        </footer>
+    </div>
+    
+</div>
+
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
+
+  </body>
+</html>
