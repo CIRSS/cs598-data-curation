@@ -1,9 +1,3 @@
----
-layout: page
-title: Assignments
-description: A collection of all assignment for the course.
----
-
 # Assignments
 
 | Assignment # | Information Page         | Release Date | Due Date |
@@ -15,15 +9,9 @@ description: A collection of all assignment for the course.
 
 
 ## Tips to do well
-To do well, It is recommended that you do the following:
+To do well, it is recommended that you do the following:
 
-<ul>
-  <li>Review the video lectures and the required readings a number of times to gain a solid understanding of the key questions and concepts introduced this week.</li>
-
-  <li>When possible, respond your peers' questions on Campuswire. As a learning community, we can help each other learn and grow. One way of doing this is by   helping to address the questions that your peers pose. By engaging with each other, we’ll all learn better.</li>
-
-  <li>Make sure you take the practice quizzes for each week. They will help you make sure you understood the basics of the week's content.</li>
-
-  <li>Take notes while you read the materials and watch the lectures for each week. By taking notes, you are interacting with the material and will find that it is easier to remember and to understand. With your notes, you’ll also find that it’s easier to complete your assignments. So, go ahead, do yourself a favor; take some notes!</li>
-</ul>
-<!-- Please change the links to the assignment info pages for the current semester -->
+* Review the video lectures and the required readings a number of times to gain a solid understanding of the key questions and concepts introduced this week.
+* When possible, respond your peers' questions on Campuswire. As a learning community, we can help each other learn and grow. One way of doing this is by   helping to address the questions that your peers pose. By engaging with each other, we’ll all learn better.
+* Make sure you take the practice quizzes for each week. They will help you make sure you understood the basics of the week's content.
+* Take notes while you read the materials and watch the lectures for each week. By taking notes, you are interacting with the material and will find that it is easier to remember and to understand. With your notes, you’ll also find that it’s easier to complete your assignments. So, go ahead, do yourself a favor; take some notes!

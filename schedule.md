@@ -1,18 +1,6 @@
----
-layout: page
-title: Schedule
-description: The weekly event schedule.
----
-
 # Weekly Schedule
 
-<!-- {% for schedule in site.schedules %}
-{{ schedule }}
-{% endfor %}  -->
-
-
-
-
+````{div} full-width
 |Week |Lecture #|Lecture Topic &nbsp; &nbsp; &nbsp; &nbsp;|Slides|Reading|Quizzes| 
 |-|:---:|-------------------------------|-|-|-|
 |**Week 1**|1.1|**Introduction**                               | |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>| Orientation Quiz<br /> Week 1 Quiz| 
@@ -94,3 +82,4 @@ description: The weekly event schedule.
 | |15.5|Panel Discussion| | |
 |**Week 16**|16.1|**Practical Data Curation: What is it?**|<a href = "https://uofi.box.com/s/lrrepj1ybctvpkshi8bezxd7t6dnffw7">pdf</a>| | | 
 | | |**Final Exam**|-|-|-|
+````

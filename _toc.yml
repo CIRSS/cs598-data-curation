@@ -1,0 +1,13 @@
+# Table of contents
+
+format: jb-book
+root: about.md
+options:
+  numbered: false
+
+chapters:
+- file: syllabus.md
+- file: assignments.md
+- file: communication.md
+- file: schedule.md
+- file: staff.md
