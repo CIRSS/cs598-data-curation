@@ -4,7 +4,7 @@
 author: The University of Illinois Board of Trustees 
 copyright: 2022-2023
 logo: logo.png
-title: Foundations of Data Curation
+#title: Foundations of Data Curation
 exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", README.md, .github/**"]
 only_build_toc_files: true
 
