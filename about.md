@@ -22,21 +22,54 @@ seo:
 
 ## Course Description
 
-Welcome to CS 598: Foundations of Data Curation! Data curation, a
-critical activity within data science, is “the active and on-going management of data through its lifecycle of interest and usefulness to scholarship, science, and education; curation activities and policies enable data discovery and retrieval, maintain data quality and add value, and provide for re-use over time.” This course provides an overview of a broad range of theoretical and practical problems in the emerging field, examining issues related to data models, data integration, format conversion, authentication and integrity, identifiers, preservation, workflow, provenance, metadata, and legal and policy issues.
+Welcome to CS 598: Foundations of Data Curation! 
+Data curation, the management of data in support of analysis and use, is a
+critical activity within data science. Without adequate data curation data
+cannot be used effectively, efficiently, or reliably. Because of its importance
+and its challenging nature, data curation typically involves more time,
+attention, staff, and expenditures, than does data analytics.  Activities of
+particular concern to data curation are data modeling, integration, workflow
+management, format conversion, provenance documentation, preservation, integrity
+and validity determination, data cleaning, standards conformance, identifier
+management, metadata management, retrieval support, re-use issues, governance,
+regulatory compliance, and security, among others. This course provides a survey
+of theoretical and practical topics in data curation.
 
 ## Textbook
 There is no required textbook for this course, but there are weekly required and optional
 readings that can be found in each weekly overview page.
 
 ## Prerequisites
-You should enter the course with basic programming skills and a working knowledge
-of markup languages (HTML, XML etc.), Text encoding systems, relational databases and schema
-design, which will be very helpful but not required.
+Basic programming skills are required. Although the course also assumes that
+most students will have some familiarity with relational databases, conceptual
+modeling, and markup languages, these will be briefly reviewed as needed.
 
 ## Course Expectations
 
-The field of Data Science is a fast-moving, empirically driven research field. Learning about such a fast-moving field is an exciting opportunity but covering it in a traditional course setting comes with some caveats. There are very few high-quality Data Curation textbooks or other learning materials that synthesize or explain much of the content we will cover. In many cases the research paper that introduced an idea is the best or only resource for learning about it. Data exists in different forms and modalities which requires carefully developed curation methods. The focus of this course is not to teach a specific tool or language for data curation but instead help you recognize key challenges in management of data and develop effective strategies to tackle them.
+Unlike most other courses in data science programs, introductory data curation
+courses are not primarily about learning particular analytic techniques and so
+assignments are less likely to be problem sets or programming projects. Instead,
+the focus is on recognizing curatorial challenges, analyzing those challenges,
+identifying possible interventions, weighing the trade-offs, and justifying a
+recommendation. 
+
+Consequently, our assignments usually involve written explanations — and these
+explanations are as important as any other aspect of the assignment.  Students
+generally find that providing the code, schema, or “solution” for an exercise is
+not as difficult as providing describing the analysis behind a decision.
+Although we know that these written responses may feel “subjective” to the
+student, this is all the more reason to write carefully, clearly, in sufficient
+detail, and to the point, so that the thinking and analysis behind your response
+is evident.  In any case, this sort of subjectivity and complexity is business
+as usual in the workplace, as you probably know. If it helps, imagine that you
+are justifying a proposal to a skeptical director of engineering.
+
+In addition, because the specific technical approaches to curatorial problems
+change rapidly, we will be asking you to read more research articles and classic
+discussions of basic principles than is usual. The fundamental ideas presented
+in these articles will not change as rapidly as techniques and practices change,
+so these will better prepare you for the challenges ahead and not just those of
+the present.
 
 ## Course Reviews (Previous offering)
 Fall 2022: [Anonymous Student Reviews](https://uofi.box.com/s/iwilwmjftsma1iomd8z9vzw3acxifu7o)
@@ -44,22 +77,28 @@ Fall 2022: [Anonymous Student Reviews](https://uofi.box.com/s/iwilwmjftsma1iomd8
 ## Course Objectives
 
 Upon successful completion of this course, you will:
-- Recognize the significance of abstraction and indirection in data science, and be able to
-promote data curation strategies based on these principles.
-- Recognize how key data abstraction strategies are related to each other both at the same level
-of abstraction and across levels of abstraction.
+- Recognize the importance of physical and logical data independence as critical
+  system requirements and be able to identify data curation strategies that use
+  abstraction and indirection to achieve those requirements
+- Recognize how key data abstraction strategies are related to each other both
+  at the same level of abstraction and also across levels of abstraction. 
+- Understand the role of conceptual modeling, ontologies, and knowledge graphs in data modeling.
 - Learn a framework of fundamental concepts of data representation.
 - Recognize the common challenges in data integration, and how they can be addressed.
-- Recognize the importance of workflow management and provenance documentation.
+- Recognize the importance of workflow management and provenance documentation
+  in ensuring efficiency, trustworthiness, and reproducibility.
 - Understand the trade-offs for common data preservation strategies.
-- Recognize the complex problems with data set identity at different levels of abstraction and
-be familiar with challenges in determining data and data representation identity.
+- Recognize the complex problems with data set identity at different levels of
+  abstraction and be familiar with challenges in determining both data identity
+  and data representation identity.  
 - Understand the cross-cutting importance of metadata in data curation activities.
-- Review recent empirical research on the information behavior of researchers and other profes-
-sionals.
+- Recognize the different kinds and levels of data standards and the different
+  levels of both data conformance and processor conformance. 
+- Recognize the relevance of empirical research on the information behavior of
+  data creators, managers, analysts, and users.  
+- Recognize the distinctive data curation needs of machine learning.
+- Recognize how machine learning can help address curatorial problems.
 - Be familiar with the of significance of governance, policy, law, and ethics in data science.
-- Recognize the different kinds of data standards, how they are related, and how they are
-important to data science.
 
 
 ## Grade Policy
