@@ -1,4 +1,4 @@
-# Communication
+ # Communication
 
 This course uses Campuswire for communication. This will be your go-to place to
 ask course content related questions, or for clarification on lecture videos and
@@ -10,7 +10,7 @@ highly recommended to check the Campuswire forum at least twice a day.
 
 ## Campuswire
 
-- [Campuswire Link](https://campuswire.com/c/GFE888E31/feed)<br/>
+- [Campuswire Link](https://campuswire.com/p/GC4260366)<br/>
 - **Campuswire passcode:** Passcode will be posted on the Course Communication page in Coursera
 
 ## Staff Office Hours
