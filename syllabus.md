@@ -18,6 +18,11 @@ of theoretical and practical topics in data curation.
 There is no required textbook for this course, but there are weekly required and optional
 readings that can be found in each weekly overview page.
 
+## Time commitment
+
+This 4-credit hour course is 16 weeks long. You should invest 10-12 hours every week in this course.
+
+
 ## Prerequisites
 Basic programming skills are required. Although the course also assumes that
 most students will have some familiarity with relational databases, conceptual
@@ -92,16 +97,25 @@ weightage.
 
 ## Grading
 
-1. Assignments (19-20% each): There will be 4 mini project style assignments
-2. Peer Review (1%): Some assignments are peer reviewed prior submitting to staff grading, 1%
-grade is based on the average score assigned to you by your peers in the class.
-3. Final exam (20%): The final exam will cover the entire semester
+1. Quizzes (10%): The lowest grade will be dropped out of 14 weekly quizzes
+1. Assignments (18% each): There will be 4 mini project style assignments
+3. Final exam (18%): The final exam will cover the entire semester
 
+
+## Assigment Deadlines
+
+For all assignment deadlines, please refer to the Course Assignment Deadlines,
+Late Policy, and Academic Calendar page in Coursera
 
 ## Late Policy
 
-Unless otherwise specified, all assignments are due at 11:59 PM US Central Time on the due date. Considering the large size of this class, we typically DO NOT accept any late assignments. We encourage everyone to finish the assignments before the deadline. Please
-do not email the staff requesting to accept assignment with late penalty. In case of extenuating circumstances extensions are granted at the discretion of course staff. In such circumstances please reach out to TAs or post email to mcs-support@illinois.edu
+Unless otherwise specified, all assignments are due at 11:59 PM US Central Time
+on the due date. Considering the large size of this class, we typically DO NOT
+accept any late assignments. We encourage everyone to finish the assignments
+before the deadline. Please do not email the staff requesting to accept
+assignment with late penalty. In case of extenuating circumstances extensions
+are granted at the discretion of course staff. In such circumstances please
+reach out to TAs or post email to mcs-support@illinois.edu.
 
 ## Academic Integrity
 
@@ -124,3 +138,55 @@ interferences in eating or sleep can have an impact on academic performance, soc
 - National Suicide Prevention Lifeline (800) 273-8255
 - Rosecrance Crisis Line (217) 359-4141 (available 24/7, 365 days a year)
 If you are in immediate danger call 911
+
+
+## Elements of this Course
+
+The course is comprised of the following elements:
+
+* **Lecture Videos**. In each week, the concepts you need to know will be presented through a collection of short video lectures. You may stream these videos for playback within the browser by clicking on their titles or download the videos. You may also download the slides that go along with the videos. The videos usually total 1.5 to 2 hours each week. You generally should spend at least the same amount of time digesting content in the video. The actual amount of time needed to digest the content will vary based on your background.
+* **Orientation Quiz**. The purpose of the orientation quiz is to ensure that you have gone through the orientation module and acquired the necessary information about the course before you start it. The orientation quiz is a required activity, but it's not part of the course grading. You have unlimited attempts on the orientation quiz. You need to answer all questions correctly in order to pass the orientation quiz.
+* **Weekly Quizzes**. Each week concludes with an ungraded quiz to help ensure you understood that week's content. You will be allowed unlimited attempts for each quiz, and there is no time limit on how long you take to complete each attempt at the quiz. 
+* **Exercises**. There are four exercises for you to complete in this course, each of which will account for 20% of your final grade. You will submit this assignment for peer review to get feedback from your classmates. You will then incorporate the feedback you receive and submit a final version of your exercise to the instructor and TAs for grading. One of the assignment is a programming assignment which will run through coursera notebook, this assignment does not require you submit anything for peer review but will be graded based on the hidden test cases and supporting report you will submit for grading. **You will be allowed one submission attempt for these exercises, except for the programming assignment which has multiple attempts until its deadline**. Though you are encouraged to discuss these assignments with your classmates, everyone must submit their own work.
+* **Final Exam** This year the course concludes with a final exam. It will account for 20% of your final grade. The details of final exam are being worked out and will be conveyed soon. 
+
+
+## Grading Distribution
+
+Your final grade will be calculated based on the activities listed in the table below. Your official final course grade will be listed in [Enterprise](https://apps.uillinois.edu/selfservice/). The course grade you see displayed in Coursera may not match your official final course grade.  
+
+
+| Component | Percent of final grade | 
+|:---:|------------------------|
+| Exercises | 80% (20% each: 1% for peer review; 19% for instructor grading) |
+| Final Exam | 20% | 
+
+
+## Student Code and Policies
+A student at the University of Illinois at the Urbana‑Champaign campus is a
+member of a University community of which all members have at least the rights
+and responsibilities common to all citizens, free from institutional censorship;
+affiliation with the University as a student does not diminish the rights or
+responsibilities held by a student or any other community member as a citizen of
+larger communities of the state, the nation, and the world. See the [University
+of Illinois Student Code](http://studentcode.illinois.edu/index.html) for more information.
+
+## Academic Integrity
+All students are expected to abide by [campus regulations on academic integrity
+found in the Student Code of
+Conduct](http://admin.illinois.edu/policy/code/article1_part4_1-401.html). These standards will be enforced and infractions of these rules will not be tolerated in this course. Sharing, copying, or providing any part of a homework solution or code is an infraction of the University’s rules on academic integrity. We will be actively looking for violations of this policy in homework and project submissions. Any violation will be punished as severely as possible with sanctions and penalties typically ranging from a failing grade on this assignment up to a failing grade in the course, including a letter of the offending infraction kept in the student's permanent university record.
+Again, a good rule of thumb: _Keep every typed word and piece of code your own_. If you think you are operating in a gray area, you probably are. If you would like clarification on specifics, please contact the course staff.
+
+## Disability Accommodations
+Students with learning, physical, or other disabilities requiring assistance
+should contact the instructor as soon as possible. If you’re unsure if this
+applies to you or think it may, please contact the instructor and  [Disability
+Resources and Educational Services (DRES)](http://disability.illinois.edu/) as soon as possible. You can contact DRES at 1207 S. Oak Street, Champaign, via phone at (217) 333-1970, or via email at  disability@illinois.edu Opens in a new tab
+ .
+
+
+
+
+
+
+
