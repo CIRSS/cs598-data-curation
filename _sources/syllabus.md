@@ -15,12 +15,16 @@ regulatory compliance, and security, among others. This course provides a survey
 of theoretical and practical topics in data curation.
 
 ## Textbook
-There is no required textbook for this course, but there are weekly required and optional
-readings that can be found in each weekly overview page.
+There is no required textbook for this course. Weekly readings supplement
+lecture videos and can be found on the overview page for each week. Concepts
+covered in required readings are included in quizzes and the final exam.
 
 ## Time commitment
 
 This 4-credit hour course is 16 weeks long. You should invest 10-12 hours every week in this course.
+
+## Course Reviews (Previous offering)
+Fall 2022: [Anonymous Student Reviews](https://uofi.box.com/s/iwilwmjftsma1iomd8z9vzw3acxifu7o)
 
 
 ## Prerequisites
@@ -53,9 +57,6 @@ articles will not change as rapidly as techniques and practices change, so these
 will better prepare you for the challenges ahead and not just those of
 the present.
 
-## Course Reviews (Previous offering)
-Fall 2022: [Anonymous Student Reviews](https://uofi.box.com/s/iwilwmjftsma1iomd8z9vzw3acxifu7o)
-
 ## Course Objectives
 
 Upon successful completion of this course, you will:
@@ -82,11 +83,26 @@ Upon successful completion of this course, you will:
 - Recognize how machine learning can help address curatorial problems.
 - Be familiar with the of significance of governance, policy, law, and ethics in data science.
 
+## Elements of this Course
 
-## Grade Policy
+The course is comprised of the following elements:
 
-Grading is based on Assignments, Quizzes and Final Exam. Each Graded Assessment typically carries 20%
-weightage.
+* **Lecture Videos**. Each week, the concepts you need to know will be presented through a collection of short video lectures. You may stream these videos for playback within the browser by clicking on their titles or download the videos to watch locally. The videos usually total 1.5 to 2 hours each week. You generally should spend at least the same amount of time digesting content in the video. 
+* **Orientation Quiz**. The purpose of the orientation quiz is to ensure that you have gone through the orientation module and acquired the necessary information about the course before you start it. The orientation quiz is a required activity, but it's not part of the course grading. You have unlimited attempts on the orientation quiz. You need to answer all questions correctly in order to pass the orientation quiz.
+* **Readings**. Readings are included each week to supplement and reinforce lecture materials. Concepts from required readings are included in weekly quizzes.
+* **Weekly Quizzes**. Each week concludes with a graded quiz to help ensure you understood that week's content. You will be allowed only three attempts for each quiz.
+* **Assignments**. There are four exercises for you to complete in this course, each of which will account for 18% of your final grade. There is one programming assignment that uses Coursera's notebook environment. **You will be allowed one submission attempt for these exercises, except for the programming assignment which has multiple attempts until its deadline**. Althhough you are encouraged to discuss these assignments with your classmates, everyone must submit their own work.
+* **Final Exam**. The course concludes with a final exam. It will account for 18% of your final grade. 
+
+
+## Grading
+
+Your final grade will be calculated based on the activities listed below. Your official final course grade will be listed in [Enterprise](https://apps.uillinois.edu/selfservice/). The course grade you see displayed in Coursera may not match your official final course grade.  
+
+1. Quizzes (10%): The lowest grade will be dropped out of 14 weekly quizzes
+2. Assignments (18% each): There will be 4 mini project style assignments
+3. Final exam (18%): The final exam will cover the entire semester
+
 
 | Letter Grade | Percent Needed                 | Letter Grade | Percent Needed | Letter Grade | Percent Needed |
 |--------------|--------------------------------|--------------|----------------|--------------|----------------|
@@ -95,17 +111,10 @@ weightage.
 | A-           | 88%                            | B-           | 78%            | F            | Below 58%      |
 
 
-## Grading
-
-1. Quizzes (10%): The lowest grade will be dropped out of 14 weekly quizzes
-1. Assignments (18% each): There will be 4 mini project style assignments
-3. Final exam (18%): The final exam will cover the entire semester
-
-
 ## Assigment Deadlines
 
 For all assignment deadlines, please refer to the Course Assignment Deadlines,
-Late Policy, and Academic Calendar page in Coursera
+Late Policy, and Academic Calendar page in Coursera.
 
 ## Late Policy
 
@@ -117,52 +126,8 @@ assignment with late penalty. In case of extenuating circumstances extensions
 are granted at the discretion of course staff. In such circumstances please
 reach out to TAs or post email to mcs-support@illinois.edu.
 
-## Academic Integrity
-
-You are welcome to discuss assignments with your classmates, but do not
-show or share any code. Also, you may not use any code from the Internet or any other outside
-sources, unless it is specifically approved by the instructor. Be sure to acknowledge any help that you do get from other students or outside works, even if it’s just a small suggestion. Violations will go on record at the university, and the minimum penalty will be a zero for the entire assignment. Read Here These standards will be enforced and infractions of these rules will not be tolerated in this course. Sharing, copying, or providing any part of a homework solution or code is an infraction of the University’s rules on academic integrity. We will be actively looking for violations of this policy in homework submissions. Any violation will be punished as severely as possible with sanctions and penalties typically ranging from a failing grade on this assignment up to a failing grade in the course, including a letter of the offending infraction kept in the student’s permanent university
-record. Again, a good rule of thumb: Keep every typed word and piece of code your own. If you
-think you are operating in a gray area, you probably are. If you would like clarification on specifics, please contact the course staff.
-
-## Disability Accommodations
-
-Students with learning, physical, or other disabilities requiring
-assistance should contact the instructor as soon as possible. If you’re unsure if this applies to you or think it may, please contact the instructor and Disability Resources and Educational Services(DRES) as soon as possible. You can contact DRES at 1207 S. Oak Street, Champaign, via phone at (217) 333-1970, or via email at disability@illinois.edu
-
-## Mental Health
-Significant stress, mood changes, excessive worry, substance/alcohol misuse or
-interferences in eating or sleep can have an impact on academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings which are covered through the Student Health Fee. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University’s resources provided below. Getting help is a smart and courageous thing to do for yourself and for those who care about you.
-- Counseling Center (217) 333-3704
-- McKinley Health Center (217) 333-2700
-- National Suicide Prevention Lifeline (800) 273-8255
-- Rosecrance Crisis Line (217) 359-4141 (available 24/7, 365 days a year)
-If you are in immediate danger call 911
-
-
-## Elements of this Course
-
-The course is comprised of the following elements:
-
-* **Lecture Videos**. In each week, the concepts you need to know will be presented through a collection of short video lectures. You may stream these videos for playback within the browser by clicking on their titles or download the videos. You may also download the slides that go along with the videos. The videos usually total 1.5 to 2 hours each week. You generally should spend at least the same amount of time digesting content in the video. The actual amount of time needed to digest the content will vary based on your background.
-* **Orientation Quiz**. The purpose of the orientation quiz is to ensure that you have gone through the orientation module and acquired the necessary information about the course before you start it. The orientation quiz is a required activity, but it's not part of the course grading. You have unlimited attempts on the orientation quiz. You need to answer all questions correctly in order to pass the orientation quiz.
-* **Weekly Quizzes**. Each week concludes with an ungraded quiz to help ensure you understood that week's content. You will be allowed unlimited attempts for each quiz, and there is no time limit on how long you take to complete each attempt at the quiz. 
-* **Exercises**. There are four exercises for you to complete in this course, each of which will account for 20% of your final grade. You will submit this assignment for peer review to get feedback from your classmates. You will then incorporate the feedback you receive and submit a final version of your exercise to the instructor and TAs for grading. One of the assignment is a programming assignment which will run through coursera notebook, this assignment does not require you submit anything for peer review but will be graded based on the hidden test cases and supporting report you will submit for grading. **You will be allowed one submission attempt for these exercises, except for the programming assignment which has multiple attempts until its deadline**. Though you are encouraged to discuss these assignments with your classmates, everyone must submit their own work.
-* **Final Exam** This year the course concludes with a final exam. It will account for 20% of your final grade. The details of final exam are being worked out and will be conveyed soon. 
-
-
-## Grading Distribution
-
-Your final grade will be calculated based on the activities listed in the table below. Your official final course grade will be listed in [Enterprise](https://apps.uillinois.edu/selfservice/). The course grade you see displayed in Coursera may not match your official final course grade.  
-
-
-| Component | Percent of final grade | 
-|:---:|------------------------|
-| Exercises | 80% (20% each: 1% for peer review; 19% for instructor grading) |
-| Final Exam | 20% | 
-
-
 ## Student Code and Policies
+
 A student at the University of Illinois at the Urbana‑Champaign campus is a
 member of a University community of which all members have at least the rights
 and responsibilities common to all citizens, free from institutional censorship;
@@ -171,6 +136,7 @@ responsibilities held by a student or any other community member as a citizen of
 larger communities of the state, the nation, and the world. See the [University
 of Illinois Student Code](http://studentcode.illinois.edu/index.html) for more information.
 
+
 ## Academic Integrity
 All students are expected to abide by [campus regulations on academic integrity
 found in the Student Code of
@@ -178,15 +144,17 @@ Conduct](http://admin.illinois.edu/policy/code/article1_part4_1-401.html). These
 Again, a good rule of thumb: _Keep every typed word and piece of code your own_. If you think you are operating in a gray area, you probably are. If you would like clarification on specifics, please contact the course staff.
 
 ## Disability Accommodations
-Students with learning, physical, or other disabilities requiring assistance
-should contact the instructor as soon as possible. If you’re unsure if this
-applies to you or think it may, please contact the instructor and  [Disability
-Resources and Educational Services (DRES)](http://disability.illinois.edu/) as soon as possible. You can contact DRES at 1207 S. Oak Street, Champaign, via phone at (217) 333-1970, or via email at  disability@illinois.edu Opens in a new tab
- .
 
+Students with learning, physical, or other disabilities requiring
+assistance should contact the instructor as soon as possible. If you’re unsure if this applies to you or think it may, please contact the instructor and Disability Resources and Educational Services(DRES) as soon as possible. You can contact DRES at 1207 S. Oak Street, Champaign, via phone at (217) 333-1970, or via email at disability@illinois.edu
 
+## Mental Health
 
-
-
-
+Significant stress, mood changes, excessive worry, substance/alcohol misuse or
+interferences in eating or sleep can have an impact on academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings which are covered through the Student Health Fee. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University’s resources provided below. Getting help is a smart and courageous thing to do for yourself and for those who care about you.
+- Counseling Center (217) 333-3704
+- McKinley Health Center (217) 333-2700
+- National Suicide Prevention Lifeline (800) 273-8255
+- Rosecrance Crisis Line (217) 359-4141 (available 24/7, 365 days a year)
+If you are in immediate danger call 911
 
