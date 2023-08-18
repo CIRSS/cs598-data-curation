@@ -69,7 +69,7 @@
 | |12.2|Provenance|<a href = "https://uofi.box.com/s/17wt48bm1dyyxlxp39jhv31fp2jwryt7">pdf</a>| | |
 | |12.3|Workflow Systems|<a href = "https://uofi.box.com/s/87nwo1rb5fgivcio5ft9z43621n701ep">pdf</a>| | |
 | |12.4|Introduction to Docker by Peter Organisciak|<a href = "https://uofi.box.com/s/zh8qjfoauo6pzmzn19nq3lcjt1mn6kdm">pdf</a>| | |
-| |12.5|Provenance Standards|<a href = "https://uofi.box.com/s/873ty6dax66he9h7grbsjpjqwgqe7kf5">pdf</a>| | |
+| |12.5|Provenance Standards|<a href = "https://uofi.box.com/s/5qxkwxy8xotffzoustesqn47un97148g">pdf</a>| | |
 |**Week 13**|13|**Week 13 Data Governance, Security, Policy, Law, and Ethics**| |Week 13 Quiz|
 | |13.1|Communication issues in data curation|<a href = "https://uofi.box.com/s/uf0q0wjspwyjulnuqg2zevl74y5ijb1v">pdf</a>| | |
 | |13.2|The crisis in data-driven scientific communication|<a href = "https://uofi.box.com/s/uyyvxu018im36gq8ton8g5729yf3exuo">pdf</a>| | |
