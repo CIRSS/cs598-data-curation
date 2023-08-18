@@ -43,7 +43,7 @@
 | |7.2|Metadata Schemas|<a href = "https://uofi.box.com/s/rd0oz39r98yseljt7yunuypas0o4kx9m">pdf</a>| | |
 | |7.3|Common Metadata Ambiguities|<a href = "https://uofi.box.com/s/z7bgl06v9a3z00x2q737zwxcaht473vx">pdf</a>| | |
 | |7.4|How does metadata support data curation?|<a href = "https://uofi.box.com/s/v29zwq7uly0j5aahitu30vxyzz9mywwg">pdf</a>| | |
-|**Week 8**|8|**Week 8 Data Practices**| | [Graded] Assignment 3 Data Privacy Quiz |
+|**Week 8**|8|**Week 8 Data Practices**| | Week 8 Quiz |
 | |8.1|Data Practices|<a href = "https://uofi.box.com/s/c5366b5873wumpa88fi0uz2ss1jnasn5">pdf</a>| | |
 | |8.2|What’s going on in the lab?|<a href = "https://uofi.box.com/s/xk8kku94cmjbo57dkg32sjjng04k10c3">pdf</a>| | |
 | |8.3|Data sharing|<a href = "https://uofi.box.com/s/ev4v83vtfllq4as0e9emq4wrhnovcfbi">pdf</a>| | |
@@ -69,8 +69,7 @@
 | |12.2|Provenance|<a href = "https://uofi.box.com/s/17wt48bm1dyyxlxp39jhv31fp2jwryt7">pdf</a>| | |
 | |12.3|Workflow Systems|<a href = "https://uofi.box.com/s/87nwo1rb5fgivcio5ft9z43621n701ep">pdf</a>| | |
 | |12.4|Introduction to Docker by Peter Organisciak|<a href = "https://uofi.box.com/s/zh8qjfoauo6pzmzn19nq3lcjt1mn6kdm">pdf</a>| | |
-| |12.5|Provenance Standards|<a href = "https://uofi.box.com/s/5qxkwxy8xotffzoustesqn47un97148g">pdf</a>| | |
-|**Week 13**|13|**Week 13 Data Governance, Security, Policy, Law, and Ethics**| |Week 13 Quiz|
+| |12.5|Provenance Standards|<a href = "https://uofi.box.com/s/5qxkwxy8xotffzoustesqn47un97148g">pdf</a> <a href="https://uofi.box.com/s/4vfnopjm4ggwxfwsmkdbzyppdyqfhjop">extended</a>| | | |**Week 13**|13|**Week 13 Data Governance, Security, Policy, Law, and Ethics**| |Week 13 Quiz|
 | |13.1|Communication issues in data curation|<a href = "https://uofi.box.com/s/uf0q0wjspwyjulnuqg2zevl74y5ijb1v">pdf</a>| | |
 | |13.2|The crisis in data-driven scientific communication|<a href = "https://uofi.box.com/s/uyyvxu018im36gq8ton8g5729yf3exuo">pdf</a>| | |
 | |13.3|The solution to the data crisis is...|<a href = "https://uofi.box.com/s/881ufkhkbb61y6vuc0663bb2fr1ekeb8">pdf</a>| | |
