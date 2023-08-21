@@ -1,10 +1,11 @@
 # Assignments
 
-| Assignment # | Information Page         | Release Date | Due Date |
+| Assignment # | Information Page         | Release | Due |
 |:---:|--------------------------|--------------|----------|
-|            1 | [Assignment 1 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/HXjXg/assignment-1-information) |   Week 0 | Week 4       |
-|            2 | [Assignment 2 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/9YthJ/assignment-2-information) |   Week 4 | Week 7       |
-|            3 | [Assignment 3 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/4QKjv/assignment-3-information) |   Week 7 | Week 10       |
+|            1.1 | [Assignment 1 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/HXjXg/assignment-1-information) |   Week 1 | Week 4       |
+|            1.2 | [Assignment 1 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/HXjXg/assignment-1-information) |   Week 1 | Week 6       |
+|            2 | [Assignment 2 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/9YthJ/assignment-2-information) |   Week 4 | Week 8       |
+|            3 | [Assignment 3 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/4QKjv/assignment-3-information) |   Week 7 | Week 10      |
 |            4 | [Assignment 4 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/IN7O6/assignment-4-information) |   Week 10 | Week 14     |
 
 
