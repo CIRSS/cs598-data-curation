@@ -1,13 +1,14 @@
 # Assignments
 
-| Assignment # | Information Page         | Release | Due |
-|:---:|--------------------------|--------------|----------|
-|            1.1 | [Assignment 1 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/HXjXg/assignment-1-information) |   Week 1 | Week 4       |
-|            1.2 | [Assignment 1 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/HXjXg/assignment-1-information) |   Week 1 | Week 6       |
-|            2 | [Assignment 2 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/9YthJ/assignment-2-information) |   Week 4 | Week 8       |
-|            3 | [Assignment 3 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/4QKjv/assignment-3-information) |   Week 7 | Week 10      |
-|            4 | [Assignment 4 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/IN7O6/assignment-4-information) |   Week 10 | Week 14     |
+| Assignment # | Information Page | Due |
+|:---:|--------------------------|--------------|
+|            1.1 | [Assignment 1 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/HXjXg/assignment-1-information) | 9/10/2023 |
+|            1.2 | [Assignment 1 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/HXjXg/assignment-1-information) | 9/24/2023 |
+|            2 | [Assignment 2 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/9YthJ/assignment-2-information) |   10/9/2023 |
+|            3 | [Assignment 3 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/4QKjv/assignment-3-information) |   10/22/2023 |
+|            4 | [Assignment 4 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/IN7O6/assignment-4-information) |   11/19/2023 |
 
+See Coursera for details. Assignments must be submitted by 11:59PM CT on the due date.
 
 ## Tips to do well
 To do well, it is recommended that you do the following:
