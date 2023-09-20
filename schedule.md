@@ -69,16 +69,17 @@
 | |12.2|Provenance|<a href = "https://uofi.box.com/s/17wt48bm1dyyxlxp39jhv31fp2jwryt7">pdf</a>| | |
 | |12.3|Workflow Systems|<a href = "https://uofi.box.com/s/87nwo1rb5fgivcio5ft9z43621n701ep">pdf</a>| | |
 | |12.4|Introduction to Docker by Peter Organisciak|<a href = "https://uofi.box.com/s/zh8qjfoauo6pzmzn19nq3lcjt1mn6kdm">pdf</a>| | |
-| |12.5|Provenance Standards|<a href = "https://uofi.box.com/s/5qxkwxy8xotffzoustesqn47un97148g">pdf</a> <a href="https://uofi.box.com/s/4vfnopjm4ggwxfwsmkdbzyppdyqfhjop">extended</a>| | | |**Week 13**|13|**Week 13 Data Governance, Security, Policy, Law, and Ethics**| |Week 13 Quiz|
-| |13.1|Communication issues in data curation|<a href = "https://uofi.box.com/s/uf0q0wjspwyjulnuqg2zevl74y5ijb1v">pdf</a>| | |
-| |13.2|The crisis in data-driven scientific communication|<a href = "https://uofi.box.com/s/uyyvxu018im36gq8ton8g5729yf3exuo">pdf</a>| | |
-| |13.3|The solution to the data crisis is...|<a href = "https://uofi.box.com/s/881ufkhkbb61y6vuc0663bb2fr1ekeb8">pdf</a>| | |
+| |12.5|Provenance Standards|<a href = "https://uofi.box.com/s/5qxkwxy8xotffzoustesqn47un97148g">pdf</a> <a href="https://uofi.box.com/s/4vfnopjm4ggwxfwsmkdbzyppdyqfhjop">extended</a>| | | 
+|**Week 13**|13|**Week 13 Data Governance, Security, Policy, Law, and Ethics**| |Week 13 Quiz|
+| |13.1|Definitions, types, scope, issues|<a href = "https://uofi.box.com/s/4jfwtk73i4tirv0kc4nzg0dd1wgfl7ib">pdf</a>| | |
+| |13.2|A whirlwind tour of science-oriented data policies|<a href = "https://uofi.box.com/s/z0n2w632r54q369nju9rhrmnjcak6vpv">pdf</a>| | |
+| |13.3|Privacy|<a href = "https://uofi.box.com/s/zwn0ssivhl719i12lmsl62gtrzx0alf6">pdf</a>| | |
+| |13.5|Panel Discussion| | |
 |**Week 14**|-|**Fall Break**| | |-|
 |**Week 15**|15|**Week 15 Communication**| |Week 15 Quiz|
-| |15.1|Definitions, types, scope, issues|<a href = "https://uofi.box.com/s/4jfwtk73i4tirv0kc4nzg0dd1wgfl7ib">pdf</a>| | |
-| |15.2|A whirlwind tour of science-oriented data policies|<a href = "https://uofi.box.com/s/z0n2w632r54q369nju9rhrmnjcak6vpv">pdf</a>| | |
-| |15.3|Privacy|<a href = "https://uofi.box.com/s/zwn0ssivhl719i12lmsl62gtrzx0alf6">pdf</a>| | |
-| |15.5|Panel Discussion| | |
+| |15.1|Communication issues in data curation|<a href = "https://uofi.box.com/s/uf0q0wjspwyjulnuqg2zevl74y5ijb1v">pdf</a>| | |
+| |15.2|The crisis in data-driven scientific communication|<a href = "https://uofi.box.com/s/uyyvxu018im36gq8ton8g5729yf3exuo">pdf</a>| | |
+| |15.3|The solution to the data crisis is...|<a href = "https://uofi.box.com/s/881ufkhkbb61y6vuc0663bb2fr1ekeb8">pdf</a>| | |
 |**Week 16**|16|**Practical Data Curation**|<a href = "https://uofi.box.com/s/lrrepj1ybctvpkshi8bezxd7t6dnffw7">pdf</a>| | |
 | | |**Final Exam**|-|-|-|
 ````
