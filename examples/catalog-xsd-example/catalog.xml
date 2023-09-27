@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalog 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://cs598.org/ns catalog.xsd">
+    
+    <book 
+        id="alma99444534012205899" 
+        url="https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99444534012205899&amp;context=L&amp;vid=01CARLI_UIU:CARLI_UIU">    
+        <title>XML Schema Essentials</title>   
+        <contributors>
+            <contributor role="creator">
+                <name>Wyke, R. Allen</name>
+            </contributor>
+            <contributor role="contributor">
+                <name>Watt, Andrew</name>
+            </contributor>        
+        </contributors>        
+        <language>English</language>
+        <series>Wiley XML essentials</series>          
+        <subjects>
+            <subject lang="fr">XML (Langage de balisage)</subject>
+            <subject lang="fr">Bases de données -- Gestion</subject>
+            <subject lang="en">Database management</subject>
+            <subject lang="en">XML (Document markup language)</subject>
+            <subject lang="en">XML</subject>
+        </subjects>
+        <publisher>
+            <name>Wiley</name>
+            <place>New York</place>
+            <date>c2022</date>
+        </publisher>
+        <identifiers>
+            <identifier type="lc">2002001951</identifier>
+            <identifier type="isbn">0471412597</identifier>
+            <identifier type="isbn">9780471412595</identifier>
+            <identifier type="oclc">(OCoLC)48957890</identifier>  
+            <identifier type="oclc">(OCoLC)ocm48957890</identifier>      
+        </identifiers>
+        <format>xiv, 386 pages ; 24 cm</format>
+        <availability>
+            <location>
+                <name>Grainger Engineering Library</name>
+                <callNumber>005.72 W975x</callNumber>
+                <available>false</available>
+            </location>
+        </availability>
+        <contents>
+            Part One: Getting started 
+            -- Elementary XML schema 
+            -- XSD elements 
+            -- Adding attributes 
+            Part Two: Going beyond DTDs 
+            -- Applying datatypes 
+            -- Data facets 
+            -- More about data facets 
+            -- Grouping elements and attributes 
+            -- Deriving types 
+            Part Three: Next steps 
+            -- Uniqueness and keys in XSD schema 
+            -- Bringing the part together 
+            Part Four: Appendixes.
+        </contents>            
+    </book>
+</catalog>    

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    
+  <xs:element name="catalog">    
+     <xs:complexType>
+        <xs:sequence>             
+           <xs:element name="book" maxOccurs="unbounded">                   
+              <xs:complexType>
+                  <xs:all>        
+                      <xs:element name="title" minOccurs="1" maxOccurs="1"/>
+                      <xs:element name="contributors" minOccurs="1" maxOccurs="1">
+                          <xs:complexType>  
+                              <xs:sequence>
+                                  <xs:element name="contributor" minOccurs="1" maxOccurs="unbounded">
+                                      <xs:complexType >
+                                          <xs:sequence>
+                                              <xs:element name="name" minOccurs="1" maxOccurs="unbounded"/>
+                                          </xs:sequence>
+                                          <xs:attribute name="role" use="required">
+                                              <xs:simpleType >
+                                                  <xs:restriction base="xs:string">
+                                                      <xs:enumeration value="creator"/>
+                                                      <xs:enumeration value="contributor"/>     
+                                                      <xs:enumeration value="illustrator"/> 
+                                                      <xs:enumeration value="editor"/> 
+                                                  </xs:restriction>
+                                              </xs:simpleType>
+                                          </xs:attribute>
+                                      </xs:complexType> 
+                                  </xs:element>
+                              </xs:sequence>
+                          </xs:complexType>
+                      </xs:element>    
+                      <xs:element name="language" minOccurs="0" maxOccurs="1"/>
+                      <xs:element name="series" minOccurs="0" maxOccurs="1"/>
+                      <xs:element name="contents" minOccurs="0" maxOccurs="1"/>
+                      <xs:element name="subjects" minOccurs="1" maxOccurs="1">
+                          <xs:complexType>  
+                              <xs:sequence>
+                                  <xs:element name="subject" minOccurs="1" maxOccurs="unbounded">
+                                     <xs:complexType>
+                                         <xs:simpleContent>
+                                             <xs:extension base="xs:string">
+                                                 <xs:attribute name="lang" type="xs:string" use="optional"/>
+                                             </xs:extension>
+                                         </xs:simpleContent>
+                                     </xs:complexType>
+                                  </xs:element>
+                              </xs:sequence>
+                          </xs:complexType>
+                      </xs:element>      
+                      <xs:element name="publisher" minOccurs="1" maxOccurs="1">
+                          <xs:complexType>
+                              <xs:sequence>
+                                  <xs:element name="name" minOccurs="1" maxOccurs="1"/>
+                                  <xs:element name="place" minOccurs="1" maxOccurs="1"/>
+                                  <xs:element name="date" minOccurs="1" maxOccurs="1"/>
+                              </xs:sequence>
+                          </xs:complexType>  
+                      </xs:element>
+                      <xs:element name="identifiers" minOccurs="1" maxOccurs="1">
+                          <xs:complexType>  
+                              <xs:sequence>
+                                  <xs:element name="identifier" minOccurs="1" maxOccurs="unbounded">
+                                      <xs:complexType>
+                                          <xs:simpleContent>
+                                              <xs:extension base="xs:string">
+                                                  <xs:attribute name="type" use="optional">
+                                                      <xs:simpleType >
+                                                          <xs:restriction base="xs:string">
+                                                              <xs:enumeration value="lc"/>
+                                                              <xs:enumeration value="isbn"/>
+                                                              <xs:enumeration value="oclc"/>
+                                                          </xs:restriction>
+                                                      </xs:simpleType>
+                                                  </xs:attribute>
+                                              </xs:extension>
+                                          </xs:simpleContent>
+                                      </xs:complexType>
+                                  </xs:element>
+                              </xs:sequence>
+                          </xs:complexType>
+                      </xs:element> 
+                      <xs:element name="format" minOccurs="1" maxOccurs="1"/>
+                      <xs:element name="availability" minOccurs="1" maxOccurs="1">
+                          <xs:complexType>  
+                              <xs:sequence>
+                                  <xs:element name="location" minOccurs="1" maxOccurs="unbounded">
+                                      <xs:complexType>
+                                          <xs:sequence>
+                                              <xs:element name="name" minOccurs="1" maxOccurs="1">
+                                                  <xs:simpleType>
+                                                      <xs:restriction base="xs:string">
+                                                          <xs:enumeration value="Grainger Engineering Library"/>
+                                                          <xs:enumeration value="Main Library"/>
+                                                      </xs:restriction>                                           
+                                                  </xs:simpleType>
+                                              </xs:element>
+                                              <xs:element name="callNumber" minOccurs="1" maxOccurs="1"/>
+                                              <xs:element name="available" type="xs:boolean" minOccurs="1" maxOccurs="1"/>
+                                          </xs:sequence>
+                                      </xs:complexType>
+                                  </xs:element>
+                              </xs:sequence>
+                          </xs:complexType>
+                      </xs:element>
+                  </xs:all>
+                  <xs:attribute name="id" type="xs:string" use="required"/>
+                  <xs:attribute name="url" type="xs:anyURI" use="required"/>
+              </xs:complexType>  
+           </xs:element>
+         </xs:sequence>   
+       </xs:complexType>            
+  </xs:element>           
+</xs:schema>
