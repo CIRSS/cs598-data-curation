@@ -1,0 +1,338 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semantic.org/cs598/frbr/"
+     xml:base="http://www.semantic.org/cs598/frbr/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:frbr="http://www.semantic.org/cs598/frbr#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semantic.org/cs598/frbr">
+        <rdfs:comment>Example FRBR Ontology</rdfs:comment>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#isCreatedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semantic.org/cs598/frbr#isCreatedBy">
+        <rdfs:domain rdf:resource="http://www.semantic.org/cs598/frbr#Endeavor"/>
+        <rdfs:range rdf:resource="http://www.semantic.org/cs598/frbr#ResponsibleEntity"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#isEmbodiedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semantic.org/cs598/frbr#isEmbodiedBy">
+        <rdfs:subPropertyOf rdf:resource="http://www.semantic.org/cs598/frbr#isRepresentedIn"/>
+        <rdfs:domain rdf:resource="http://www.semantic.org/cs598/frbr#Expression"/>
+        <rdfs:range rdf:resource="http://www.semantic.org/cs598/frbr#Manifestation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#isExemplifiedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semantic.org/cs598/frbr#isExemplifiedBy">
+        <rdfs:subPropertyOf rdf:resource="http://www.semantic.org/cs598/frbr#isRepresentedIn"/>
+        <rdfs:domain rdf:resource="http://www.semantic.org/cs598/frbr#Manifestation"/>
+        <rdfs:range rdf:resource="http://www.semantic.org/cs598/frbr#Item"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#isHeldBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semantic.org/cs598/frbr#isHeldBy">
+        <rdfs:domain rdf:resource="http://www.semantic.org/cs598/frbr#Library"/>
+        <rdfs:range rdf:resource="http://www.semantic.org/cs598/frbr#Item"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#isRealizedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semantic.org/cs598/frbr#isRealizedBy">
+        <rdfs:subPropertyOf rdf:resource="http://www.semantic.org/cs598/frbr#isRepresentedIn"/>
+        <rdfs:domain rdf:resource="http://www.semantic.org/cs598/frbr#Work"/>
+        <rdfs:range rdf:resource="http://www.semantic.org/cs598/frbr#Expression"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#isRepresentedIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semantic.org/cs598/frbr#isRepresentedIn">
+        <rdfs:domain rdf:resource="http://www.semantic.org/cs598/frbr#Endeavor"/>
+        <rdfs:range rdf:resource="http://www.semantic.org/cs598/frbr#Endeavor"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semantic.org/cs598/frbr#name">
+        <rdfs:domain rdf:resource="http://www.semantic.org/cs598/frbr#ResponsibleEntity"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#title -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semantic.org/cs598/frbr#title">
+        <rdfs:domain rdf:resource="http://www.semantic.org/cs598/frbr#Item"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#AcademicLibrary -->
+
+    <owl:Class rdf:about="http://www.semantic.org/cs598/frbr#AcademicLibrary">
+        <rdfs:subClassOf rdf:resource="http://www.semantic.org/cs598/frbr#Library"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#CorporateBody -->
+
+    <owl:Class rdf:about="http://www.semantic.org/cs598/frbr#CorporateBody">
+        <rdfs:subClassOf rdf:resource="http://www.semantic.org/cs598/frbr#ResponsibleEntity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#Endeavor -->
+
+    <owl:Class rdf:about="http://www.semantic.org/cs598/frbr#Endeavor"/>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#Expression -->
+
+    <owl:Class rdf:about="http://www.semantic.org/cs598/frbr#Expression">
+        <rdfs:subClassOf rdf:resource="http://www.semantic.org/cs598/frbr#Endeavor"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#Item -->
+
+    <owl:Class rdf:about="http://www.semantic.org/cs598/frbr#Item">
+        <rdfs:subClassOf rdf:resource="http://www.semantic.org/cs598/frbr#Endeavor"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#Library -->
+
+    <owl:Class rdf:about="http://www.semantic.org/cs598/frbr#Library"/>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#Manifestation -->
+
+    <owl:Class rdf:about="http://www.semantic.org/cs598/frbr#Manifestation">
+        <rdfs:subClassOf rdf:resource="http://www.semantic.org/cs598/frbr#Endeavor"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#Person -->
+
+    <owl:Class rdf:about="http://www.semantic.org/cs598/frbr#Person">
+        <rdfs:subClassOf rdf:resource="http://www.semantic.org/cs598/frbr#ResponsibleEntity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#PublicLibrary -->
+
+    <owl:Class rdf:about="http://www.semantic.org/cs598/frbr#PublicLibrary">
+        <rdfs:subClassOf rdf:resource="http://www.semantic.org/cs598/frbr#Library"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#ResponsibleEntity -->
+
+    <owl:Class rdf:about="http://www.semantic.org/cs598/frbr#ResponsibleEntity"/>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#Work -->
+
+    <owl:Class rdf:about="http://www.semantic.org/cs598/frbr#Work">
+        <rdfs:subClassOf rdf:resource="http://www.semantic.org/cs598/frbr#Endeavor"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#AndreGide -->
+
+    <owl:NamedIndividual rdf:about="http://www.semantic.org/cs598/frbr#AndreGide">
+        <rdf:type rdf:resource="http://www.semantic.org/cs598/frbr#Person"/>
+        <frbr:name>Andre Gide</frbr:name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#BranaghsHamlet -->
+
+    <owl:NamedIndividual rdf:about="http://www.semantic.org/cs598/frbr#BranaghsHamlet">
+        <rdf:type rdf:resource="http://www.semantic.org/cs598/frbr#Manifestation"/>
+        <frbr:isCreatedBy rdf:resource="http://www.semantic.org/cs598/frbr#KennethBranagh"/>
+        <frbr:isExemplifiedBy rdf:resource="http://www.semantic.org/cs598/frbr#Hamlet1996DVD"/>
+        <frbr:title>Hamlet</frbr:title>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#GidesFrenchHamlet -->
+
+    <owl:NamedIndividual rdf:about="http://www.semantic.org/cs598/frbr#GidesFrenchHamlet">
+        <rdf:type rdf:resource="http://www.semantic.org/cs598/frbr#Manifestation"/>
+        <frbr:isCreatedBy rdf:resource="http://www.semantic.org/cs598/frbr#AndreGide"/>
+        <frbr:isExemplifiedBy rdf:resource="http://www.semantic.org/cs598/frbr#PantheonBooksFrenchHamlet"/>
+        <frbr:title>Hamlet</frbr:title>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#Hamlet1996DVD -->
+
+    <owl:NamedIndividual rdf:about="http://www.semantic.org/cs598/frbr#Hamlet1996DVD">
+        <rdf:type rdf:resource="http://www.semantic.org/cs598/frbr#Item"/>
+        <frbr:isCreatedBy rdf:resource="http://www.semantic.org/cs598/frbr#WarnerHomeVideo"/>
+        <frbr:isHeldBy rdf:resource="http://www.semantic.org/cs598/frbr#MusicLibrary"/>
+        <frbr:title>Hamlet</frbr:title>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#KennethBranagh -->
+
+    <owl:NamedIndividual rdf:about="http://www.semantic.org/cs598/frbr#KennethBranagh">
+        <rdf:type rdf:resource="http://www.semantic.org/cs598/frbr#Person"/>
+        <frbr:name>Branagh, Kenneth</frbr:name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#MainLibrary -->
+
+    <owl:NamedIndividual rdf:about="http://www.semantic.org/cs598/frbr#MainLibrary">
+        <rdf:type rdf:resource="http://www.semantic.org/cs598/frbr#AcademicLibrary"/>
+        <frbr:name>Main Library</frbr:name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#MusicLibrary -->
+
+    <owl:NamedIndividual rdf:about="http://www.semantic.org/cs598/frbr#MusicLibrary">
+        <rdf:type rdf:resource="http://www.semantic.org/cs598/frbr#AcademicLibrary"/>
+        <frbr:name>Music Library</frbr:name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#PantheonBooks -->
+
+    <owl:NamedIndividual rdf:about="http://www.semantic.org/cs598/frbr#PantheonBooks">
+        <rdf:type rdf:resource="http://www.semantic.org/cs598/frbr#CorporateBody"/>
+        <frbr:name>Pantheon Books</frbr:name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#PantheonBooksFrenchHamlet -->
+
+    <owl:NamedIndividual rdf:about="http://www.semantic.org/cs598/frbr#PantheonBooksFrenchHamlet">
+        <rdf:type rdf:resource="http://www.semantic.org/cs598/frbr#Item"/>
+        <frbr:isCreatedBy rdf:resource="http://www.semantic.org/cs598/frbr#PantheonBooks"/>
+        <frbr:isHeldBy rdf:resource="http://www.semantic.org/cs598/frbr#MainLibrary"/>
+        <frbr:title>Hamlet</frbr:title>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#ShakespearesHamlet -->
+
+    <owl:NamedIndividual rdf:about="http://www.semantic.org/cs598/frbr#ShakespearesHamlet">
+        <rdf:type rdf:resource="http://www.semantic.org/cs598/frbr#Expression"/>
+        <frbr:isCreatedBy rdf:resource="http://www.semantic.org/cs598/frbr#WilliamShakespeare"/>
+        <frbr:isEmbodiedBy rdf:resource="http://www.semantic.org/cs598/frbr#BranaghsHamlet"/>
+        <frbr:isEmbodiedBy rdf:resource="http://www.semantic.org/cs598/frbr#GidesFrenchHamlet"/>
+        <frbr:title>The Tragedy of Hamlet, Prince of Denmark</frbr:title>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#WarnerHomeVideo -->
+
+    <owl:NamedIndividual rdf:about="http://www.semantic.org/cs598/frbr#WarnerHomeVideo">
+        <rdf:type rdf:resource="http://www.semantic.org/cs598/frbr#CorporateBody"/>
+        <frbr:name>Warner Home Video</frbr:name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semantic.org/cs598/frbr#WilliamShakespeare -->
+
+    <owl:NamedIndividual rdf:about="http://www.semantic.org/cs598/frbr#WilliamShakespeare">
+        <rdf:type rdf:resource="http://www.semantic.org/cs598/frbr#Person"/>
+        <frbr:name>Shakespeare, William</frbr:name>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.25.2023-02-15T19:15:49Z) https://github.com/owlcs/owlapi -->
+
