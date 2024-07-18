@@ -28,34 +28,20 @@ Fall 2022: [Anonymous Student Reviews](https://uofi.box.com/s/iwilwmjftsma1iomd8
 
 
 ## Prerequisites
-Basic programming skills are required. Although the course also assumes that
-most students will have some familiarity with relational databases, conceptual
-modeling, and markup languages, these will be briefly reviewed as needed.
+
+The following are required to succeed in this course:
+* Completion of an introductory databases course such as Database Systems (CS411). It is assumed that 
+  you have experience with conceptual modeling, entity-relationship diagramming and the basics
+  of relational database design and use.
+* Basic Python programming skills including familiarity with Pandas, use of Python libraries, and 
+  web-based APIs.
+* Ability to create and manipulate commonly used data formats including JSON and XML.
 
 ## Course Expectations
 
-Unlike other courses in data science programs, introductory data curation
-courses are not primarily concerned with learning particular analytic techniques
-and instead focus on recognizing curatorial challenges, analyzing those
-challenges, identifying interventions, and justifying recommendations. As such,
-assignments include fewer problem sets or programming projects and more written
-explanations.
-
-Students often find that providing the code, schema or solution for an exercise
-is not as difficult as describing the anlaysis behind a decision. While written
-responses may feel subjective, this is all the more reason to write carefully,
-clearly, and in sufficient detail so that the thinking and analysis behind your
-response is evident. In any case, this sort of subjectivity and complexity is
-common in the worplace, as you likely already know.  If it helps, you can
-imagine that you are justifying a proposal to a skeptical director of
-engineering.
-
-In addition, because the specific technical approaches to curatorial problems
-change rapidly, we will be asking you to read more research articles and classic
-discussions of basic principles. The fundamental ideas presented in these
-articles will not change as rapidly as techniques and practices change, so these
-will better prepare you for the challenges ahead and not just those of
-the present.
+Unlike other courses in data science programs, introductor data curation courses
+are not primarily concerned with learning analytic techniques and instead focus
+on many other aspects of the data lifecycle.
 
 ## Course Objectives
 
@@ -87,28 +73,39 @@ Upon successful completion of this course, you will:
 
 The course is comprised of the following elements:
 
-* **Lecture Videos**. Each week, the concepts you need to know will be presented through a collection of short video lectures. You may stream these videos for playback within the browser by clicking on their titles or download the videos to watch locally. The videos usually total 1.5 to 2 hours each week. You generally should spend at least the same amount of time digesting content in the video. 
-* **Orientation Quiz**. The purpose of the orientation quiz is to ensure that you have gone through the orientation module and acquired the necessary information about the course before you start it. The orientation quiz is a required activity, but it's not part of the course grading. You have unlimited attempts on the orientation quiz. You need to answer all questions correctly in order to pass the orientation quiz.
-* **Readings**. Readings are included each week to supplement and reinforce lecture materials. Concepts from required readings are included in weekly quizzes.
-* **Weekly Quizzes**. Each week concludes with a graded quiz to help ensure you understood that week's content. You will be allowed only three attempts for each quiz.
-* **Assignments**. There are four exercises for you to complete in this course, each of which will account for 18% of your final grade. There is one programming assignment that uses Coursera's notebook environment. **You will be allowed one submission attempt for these exercises, except for the programming assignment which has multiple attempts until its deadline**. Althhough you are encouraged to discuss these assignments with your classmates, everyone must submit their own work.
-* **Final Exam**. The course concludes with a final exam. It will account for 18% of your final grade. 
+* **Lecture Videos**. For each module, the concepts you need to know will be presented through a collection of short video lectures. You may stream these videos for playback within the browser by clicking on their titles or download the videos to watch locally. The videos usually total 1.5 to 2 hours for each module. You generally should spend at least the same amount of time digesting content in the video. 
+* **Readings**. Readings are included in each module to supplement and reinforce lecture materials. Concepts from **required readings** are included in module quizzes. Supplemental readings are optional and provided for students who want to explore a particular are in more depth.
+* **Module Quizzes**. Each module concludes with a graded quiz to help ensure you understood that module's content. You will be allowed only three attempts for each quiz.
+* **Assignments**. There are four assignments for you to complete in this course. Assignments are delivered via the PrairieLearn system.
+* **Final Exam**. The course concludes with a comprehensive final exam. 
+* **Participation**. Student participation will be based on engagement via Campuswire. 
+* **Extra Credit**. At least two extra credit opportunities will be available worth approximately 3% of the final grade.
 
 
 ## Grading
 
 Your final grade will be calculated based on the activities listed below. Your official final course grade will be listed in [Enterprise](https://apps.uillinois.edu/selfservice/). The course grade you see displayed in Coursera may not match your official final course grade.  
 
-1. Quizzes (10%): The lowest grade will be dropped out of 14 weekly quizzes
-2. Assignments (18% each): There will be 4 mini project style assignments
-3. Final exam (18%): The final exam will cover the entire semester
+1. Quizzes (15%): The lowest grade will be dropped out of 15 quizzes
+2. Assignments (15% each): There will be 4 assignments
+3. Final exam (20%): There will be a cummulative final exam
+4. Participation (5%): Participation will be based on engagement via Campuswire
+
+* A+ 97
+* A  93
+* A- 90
+* B+ 87
+* B+ 83
+* B- 80
+* C+ 77
+* C  73
+* C- 70
+* D+ 67
+* D+ 63
+* D- 60
+* F	
 
 
-| Letter Grade | Percent Needed                 | Letter Grade | Percent Needed | Letter Grade | Percent Needed |
-|--------------|--------------------------------|--------------|----------------|--------------|----------------|
-| A+           | Instructor's Discretion        | B+           | 85%            | C            | 70%            |
-| A            | 90%                            | B            | 80%            | D            | 60%            |
-| A-           | 88%                            | B-           | 78%            | F            | Below 58%      |
 
 
 ## Assigment Deadlines
