@@ -78,7 +78,7 @@ The course is comprised of the following elements:
 * **Module Quizzes**. Each module concludes with a graded quiz to help ensure you understood that module's content. You will be allowed only three attempts for each quiz.
 * **Assignments**. There are four assignments for you to complete in this course. Assignments are delivered via the PrairieLearn system.
 * **Final Exam**. The course concludes with a comprehensive final exam. 
-* **Participation**. Student participation will be based on engagement via Campuswire. 
+* **Participation**. Student participation will be based on engagement via Campuswire and office hours.
 * **Extra Credit**. At least two extra credit opportunities will be available worth approximately 3% of the final grade.
 
 
@@ -86,11 +86,11 @@ The course is comprised of the following elements:
 
 Your final grade will be calculated based on the activities listed below. Your official final course grade will be listed in [Enterprise](https://apps.uillinois.edu/selfservice/). The course grade you see displayed in Coursera may not match your official final course grade.  
 
-1. Quizzes (15%): The lowest grade will be dropped out of 15 quizzes
+1. Quizzes (20%): The lowest grade will be dropped out of 14 weekly quizzes
 2. Assignments (15% each): There will be 4 assignments
 3. Final exam (20%): There will be a cummulative final exam
-4. Participation (5%): Participation will be based on engagement via Campuswire
 
+Grade distribution:
 * A+ 97
 * A  93
 * A- 90
@@ -116,12 +116,9 @@ Late Policy, and Academic Calendar page in Coursera.
 ## Late Policy
 
 Unless otherwise specified, all assignments are due at 11:59 PM US Central Time
-on the due date. Considering the large size of this class, we typically DO NOT
-accept any late assignments. We encourage everyone to finish the assignments
-before the deadline. Please do not email the staff requesting to accept
-assignment with late penalty. In case of extenuating circumstances extensions
-are granted at the discretion of course staff. In such circumstances please
-reach out to TAs or post email to mcs-support@illinois.edu.
+on the due date. We encourage everyone to finish the assignments
+before the deadline. In the event of extenuating circumstances extensions
+are granted at the discretion of course staff via Campuswire.
 
 ## Student Code and Policies
 
@@ -153,5 +150,4 @@ interferences in eating or sleep can have an impact on academic performance, soc
 - McKinley Health Center (217) 333-2700
 - National Suicide Prevention Lifeline (800) 273-8255
 - Rosecrance Crisis Line (217) 359-4141 (available 24/7, 365 days a year)
-If you are in immediate danger call 911
-
+If you are in immediate danger call 911.
