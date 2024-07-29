@@ -2,11 +2,10 @@
 
 | Assignment # | Information Page | Due |
 |:---:|--------------------------|--------------|
-|            1.1 | [Assignment 1 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/HXjXg/assignment-1-information) | See Coursera |
-|            1.2 | [Assignment 1 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/HXjXg/assignment-1-information) | See Coursera |
-|            2 | [Assignment 2 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/9YthJ/assignment-2-information) | See Coursera |
-|            3 | [Assignment 3 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/4QKjv/assignment-3-information) | See Coursera |
-|            4 | [Assignment 4 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/IN7O6/assignment-4-information) | See Coursera |
+| 1 | Data Curation Using the Relational Model | See Coursera |
+| 2 | Data Curation Using XML, JSON, and JSON-LD | See Coursera |
+| 3 | Identity and Identifier Systems | See Coursera |
+| 4 | Data Anonymization | See Coursera |
 
 See Coursera for details. Assignments must be submitted by 11:59PM CT on the due date.
 
