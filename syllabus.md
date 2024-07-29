@@ -87,7 +87,7 @@ The course is comprised of the following elements:
 Your final grade will be calculated based on the activities listed below. Your official final course grade will be listed in [Enterprise](https://apps.uillinois.edu/selfservice/). The course grade you see displayed in Coursera may not match your official final course grade.  
 
 1. Quizzes (20%): The lowest grade will be dropped out of 14 weekly quizzes
-2. Assignments (15% each): There will be 4 assignments
+2. Assignments (15% each): There will be 4 assignments worth a total of 60% of the final grade
 3. Final exam (20%): There will be a cummulative final exam
 
 Grade distribution:
@@ -103,8 +103,7 @@ Grade distribution:
 * D+ 67
 * D+ 63
 * D- 60
-* F	
-
+* F < 60	
 
 
 
@@ -151,3 +150,9 @@ interferences in eating or sleep can have an impact on academic performance, soc
 - National Suicide Prevention Lifeline (800) 273-8255
 - Rosecrance Crisis Line (217) 359-4141 (available 24/7, 365 days a year)
 If you are in immediate danger call 911.
+
+
+## Acknolwedgements
+
+This course includes material adapted from work by Carole Palmer, Melissa Cragin, David Dubin, 
+Karen Wickett, Bertram Ludaescher, Ruth Duerr, Simone Sacchi.
