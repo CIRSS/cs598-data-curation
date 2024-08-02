@@ -27,15 +27,14 @@ This 4-credit hour course is 16 weeks long. You should invest 10-12 hours every 
 Fall 2022: [Anonymous Student Reviews](https://uofi.box.com/s/iwilwmjftsma1iomd8z9vzw3acxifu7o)
 
 
-## Prerequisites
+## Expected Prior Knowledge
 
-The following are required to succeed in this course:
-* Completion of an introductory databases course such as Database Systems (CS411). It is assumed that 
-  you have experience with conceptual modeling, entity-relationship diagramming and the basics
-  of relational database design and use.
-* Basic Python programming skills including familiarity with Pandas, use of Python libraries, and 
-  web-based APIs.
+* Completion of an introductory databases course such as Database Systems (CS411) or related experience:
+  * Database basics: database design, schemas, constraints, queries
+  * Conceptual modeling, entity relationship diagrams
 * Ability to create and manipulate commonly used data formats including JSON and XML.
+* Basic Python programming skills including familiarity with Pandas, use of Python libraries, and web-based APIs.
+
 
 ## Course Expectations
 
