@@ -115,8 +115,14 @@ Late Policy, and Academic Calendar page in Coursera.
 
 Unless otherwise specified, all assignments are due at 11:59 PM US Central Time
 on the due date. We encourage everyone to finish the assignments
-before the deadline. In the event of extenuating circumstances extensions
-are granted at the discretion of course staff via Campuswire.
+before the deadline. 
+
+If you encounter special circumstances that prevent you from completing assignments on time, please reach out to course staff via Campuswire.  Note that you may be required to submit an [Absence Letter](https://odos.illinois.edu/resources/students/absence-letters).
+
+No assignments will be accepted after the last day of class.
+
+For course extensions or incompletes, please email mcs-support@illinois.edu
+
 
 ## Student Code and Policies
 
