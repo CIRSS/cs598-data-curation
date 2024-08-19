@@ -10,7 +10,7 @@ highly recommended to check the Campuswire forum at least twice a day.
 
 ## Campuswire
 
-- [Campuswire Link](https://campuswire.com/p/GC4260366)<br/>
+- [Campuswire Link](https://campuswire.com/p/G972515EC)<br/>
 - **Campuswire passcode:** Passcode will be posted on the Course Communication page in Coursera
 
 ## Staff Office Hours
