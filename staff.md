@@ -6,7 +6,7 @@
 
 **Lead Teaching Assistants**: Seonmi Cho and Hetarth Chopra 
 
-**Teaching Assistants**: Jugal Bhatt, Saumitra Chaskar, Sudarshni Ramesh, Shreya Sharma, Aditya Sinha, and Keerthana Sunder.
+**Teaching Assistants**: Jugal Bhatt, Saumitra Chaskar, Sudarshni Ramesh, Shreya Sharma, Aditya Sinha, Keerthana Sunder.
 
 
 ## Previous Staff
