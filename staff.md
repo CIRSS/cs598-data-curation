@@ -4,12 +4,14 @@
 
 <img style="border-radius: 50%; width: 100px" src="https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/mi7/renear_2012_cropped_portrait.jpg"/> [Allen Renear](https://ischool.illinois.edu/people/allen-renear), Instructor
 
-**Lead Teaching Assistants**: Yeshwanth Sripathy and Saurabh Shetty
+**Lead Teaching Assistants**: Seonmi Cho and Hetarth Chopra 
 
-**Teaching Assistants**: Vatsal Chheda, Tanay Jhawar, Sudharsan Kirshnakuma, Aditya Kumbhar, Sopan Phaltankar, Rajiv Ramachandran
+**Teaching Assistants**: Jugal Bhatt, Saumitra Chaskar, Sudarshni Ramesh, Shreya Sharma, Aditya Sinha, and Keerthana Sunder.
 
 
 ## Previous Staff
+**Fall 2023:** Yeshwanth Sripathy, Saurabh Shetty, Vatsal Chheda, Tanay Jhawar, Sudharsan K A, Aditya Kumbhar, Sopan Phaltankar, Rajiv Ramachandran
+
 **Fall 2022:** Vardhan Dongre (Courser Director); Sandip Sonawane; Hang Xie; Abhinav Reddy; Chandana Bitra; Pranith Bottu; Sudharsan K A; Shubham Mehta; Aakansha Singh 
 
 **Fall 2021:** Vardhan Dongre; Sarthak Mishra; Sandip Sonawane; Chandana Bitra; Pranith Bottu; Shubham Mehta; Aakansha Singh 
