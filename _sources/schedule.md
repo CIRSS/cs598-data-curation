@@ -27,7 +27,7 @@
 | |3.5|Why The Solution Works|<a href="https://uofi.box.com/s/fnjioc7muv63yg7jxpov8yzwf9omkg2q" target="_blank">pdf</a>| | |
 | |3.6|Implementing The Solution with XML and JSON|<a href="https://uofi.box.com/s/cpwu310toswqoqkm47af14yrd115zvmh" target="_blank">pdf</a>| | |
 |**4**|4|**Data Abstractions - Ontologies**| |Module 4 Quiz|
-| |4.1|The Problem: Connecting Data to Information|<a href="https://uofi.box.com/s/7ar0zk5xhd1wxpajm5qghsisaiv8eirt" target="_blank">pdf</a>| | |
+| |4.1|The Problem: Connecting Data to Information|<a href="https://uofi.box.com/s/qoe53t4cx6nluug3dm17scso2z0t9hre" target="_blank">pdf</a>| | |
 | |4.2|The Solution: Ontologies|<a href="https://uofi.box.com/s/yr65rz6cdv7cxtdrljd6769ektx4ol15" target="_blank">pdf</a>| | |
 | |4.3|An ER/Ontology Example: FRBR|<a href="https://uofi.box.com/s/q2h03h4p97ctu4tox9k50so29i1g9dfw" target="_blank">pdf</a>| | |
 | |4.4|Implementing Ontologies in RDF/RDFS|<a href="https://uofi.box.com/s/4pryjh8jsuvjwhxy6ml5b7xce2afm2bu" target="_blank">pdf</a>| | |
@@ -39,11 +39,11 @@
 | |5.4|Schema Integration: an example|<a href="https://uofi.box.com/s/9tgqt4t6s2ty42c0n9wtwrka0p8lvnl3" target="_blank">pdf</a>| | |
 | |5.5|Example: The Curated Data Lake|<a href="https://uofi.box.com/s/x0ilai02nh4t8fak15hcdopsrqpjs1xc" target="_blank">pdf</a>| | |
 |**6**|6|**Data Concepts**| |Module 6 Quiz|
-| |6.1|What is data? A first attempt|<a href="https://uofi.box.com/s/8f5oh9xw3ojhx08mpbfafykw71hx9k05" target="_blank">pdf</a>| | |
+| |6.1|What is data? A first attempt|<a href="https://uofi.box.com/s/4bi5z1yadlqjroyyc8wvcizqnbfmw60d" target="_blank">pdf</a>| | |
 | |6.2|The Identity Problem|<a href="https://uofi.box.com/s/nbkqucrsr4p8wviovt34ly34vwq0h01u" target="_blank">pdf</a>| | |
 | |6.3|Some Ontological Analysis|<a href="https://uofi.box.com/s/ou1o8jq1s6go18rnfj1uu2u6vm0r7a0s" target="_blank">pdf</a>| | |
 | |6.4|A Way Forward: Roles and Types|<a href="https://uofi.box.com/s/5of4pfgdkrax4pit38lebjz6qfo2a1k6" target="_blank">pdf</a>| | |
-| |6.5|An Ontology for Data Concepts|<a href="https://uofi.box.com/s/ulisjf2yzb7ajjl8tw8ip2joj4vczv1z" target="_blank">pdf</a>| | |
+| |6.5|An Ontology for Data Concepts|<a href="https://uofi.box.com/s/llozk2kyeeakwmwwpxqzxve6u6a1mjpg" target="_blank">pdf</a>| | |
 | |6.6|What is data?|<a href="https://uofi.box.com/s/k6hqtgf5ine6eaaap7mli7ng3u4houle" target="_blank">pdf</a>| | |
 |**7**|7|**Metadata**| |Module 7 Quiz|
 | |7.1|What is Metadata?|<a href="https://uofi.box.com/s/45jbeschc42jre54xzsij2trd5wu36bm" target="_blank">pdf</a>| | |
@@ -52,8 +52,8 @@
 | |7.4|How Does Metadata Support Data Curation?|<a href="https://uofi.box.com/s/7ar0zk5xhd1wxpajm5qghsisaiv8eirt" target="_blank">pdf</a>| | |
 | |7.5|Metadata in Practice|<a href="https://uofi.box.com/s/v56vx89okirvbc6qlorg6y6291uuebkc" target="_blank">pdf</a>| | |
 |**8**|8|**Identity**| |Module 8 Quiz|
-| |8.1|Why is identification important?|<a href="https://uofi.box.com/s/x90ehlamxay1i1kjtg4xojlyznxhr94x" target="_blank">pdf</a>| | |
-| |8.2|What are we identifying?|<a href="https://uofi.box.com/s/lw0gh1if3g8diebkhwdgnik9954cft0e" target="_blank">pdf</a>| | |
+| |8.1|Why is Identification Important?|<a href="https://uofi.box.com/s/x90ehlamxay1i1kjtg4xojlyznxhr94x" target="_blank">pdf</a>| | |
+| |8.2|What Are We Identifying?|<a href="https://uofi.box.com/s/lw0gh1if3g8diebkhwdgnik9954cft0e" target="_blank">pdf</a>| | |
 | |8.3|How Do We Identify?|<a href="https://uofi.box.com/s/jn3zlken0a1y8auu6fbanszbhmow1pse" target="_blank">pdf</a>| | |
 | |8.4|Canonicalization|<a href="https://uofi.box.com/s/azs1v82qkufc77rfqd9x923wm75afy7g" target="_blank">pdf</a>| | |
 | |8.5|Identifiers and Identifier Systems|<a href="https://uofi.box.com/s/q2namzbc1nzrzzir7ebai66eh7qcwu4x" target="_blank">pdf</a>| | |
@@ -64,12 +64,12 @@
 | |9.4|Standard Data Preservation Strategies|<a href="https://uofi.box.com/s/a39etitm4aievhjoqj35d9kjp037az63" target="_blank">pdf</a>| | |
 | |9.5|Two Data Preservation Standards|<a href="https://uofi.box.com/s/ssj06oxzsyd8q4vy2gvvgxl68h5mz85v" target="_blank">pdf</a>| | |
 |**10**|10|**Standards**| |Module 10 Quiz|
-| |10.1|Standards and standards organizations|<a href="https://uofi.box.com/s/i0ye3av1u82wb7pmkraee1eymygl4c96" target="_blank">pdf</a>| | |
-| |10.2|Some standard standards maneuvers|<a href="https://uofi.box.com/s/c6imr9yh7xuz0c3co2p9gzr5u5oqltlo" target="_blank">pdf</a>| | |
+| |10.1|Standards and Standards Organizations|<a href="https://uofi.box.com/s/i0ye3av1u82wb7pmkraee1eymygl4c96" target="_blank">pdf</a>| | |
+| |10.2|Some Standard Standards Maneuvers|<a href="https://uofi.box.com/s/c6imr9yh7xuz0c3co2p9gzr5u5oqltlo" target="_blank">pdf</a>| | |
 | |10.3|Compatibility|<a href="https://uofi.box.com/s/m5liplkchui2c8lvyytdc1w2hbbbnrrp" target="_blank">pdf</a>| | |
 | |10.4|Standards Organizations|<a href="https://uofi.box.com/s/w58roclatmmqqdttqbh1apj1iqse9qa5" target="_new">pdf</a>| | |
 |**11**|11|**Workflow, Provenance and Reproducibility**| |Module 11 Quiz|
-| |11.1|Workflow|<a href="https://uofi.box.com/s/pxxx3v56hpqcjjqzo5wz5aogo4td52f8" target="_blank">pdf</a>| | |
+| |11.1|Workflow|<a href="https://uofi.box.com/s/rsmm2wudmvyb6sp866qjgxp24mp8bgyo" target="_blank">pdf</a>| | |
 | |11.2|Provenance|<a href="https://uofi.box.com/s/555xblim1skb9ef0jvjb8gsn4d1pdmox" target="_blank">pdf</a>| | |
 | |11.3|Workflow Systems|<a href="https://uofi.box.com/s/22xe5madz9er0zqo1aiky4eamvb3w16o" target="_blank">pdf</a>| | |
 | |11.5|Provenance Standards| <a href="https://uofi.box.com/s/5qxkwxy8xotffzoustesqn47un97148g" target="_blank">pdf</a> <a href="https://uofi.box.com/s/4vfnopjm4ggwxfwsmkdbzyppdyqfhjop" target="_blank">extended</a> | | | 
@@ -86,7 +86,7 @@
 | |13.1|Data Practices|<a href="https://uofi.box.com/s/8oz98cvnuwutfjcrrrgy8abqscnv7ol2" target="_blank">pdf</a>| | |
 | |13.2|What’s Going on in the Lab?|<a href="https://uofi.box.com/s/8ifcnzk3f6pbrk00i2pjfyk0qyjrfosv" target="_blank">pdf</a>| | |
 | |13.3|Data Sharing|<a href="https://uofi.box.com/s/8464ht0hness6t6wu0sopu7f653r362c" target="_blank">pdf</a>| | |
-| |13.4|Data Reuse|<a href="https://uofi.box.com/s/8464ht0hness6t6wu0sopu7f653r362c" target="_blank">pdf</a>| | |
+| |13.4|Data Reuse|<a href="https://uofi.box.com/s/dn3fwa9anjo9evrw7h2714fl4hmpocan" target="_blank">pdf</a>| | |
 | |13.5|Trends in Data Curation Research|<a href="" target="_blank">pdf</a>| | |
 |**14**|-|**Fall Break**| | |-|
 |**15**|15|**Communication**| |Module 15 Quiz|
