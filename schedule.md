@@ -1,5 +1,7 @@
 # Schedule
 
+**Note**: To access the slides you may need to [enable Box for your NetID](https://help.uillinois.edu/TDClient/44/Portal/KB/ArticleDet?ID=2229).
+
 ````{div} full-width
 |Module |Lecture #|Topic|Slides|Quizzes|
 |-|:---:|-------------------------------|-|-|
