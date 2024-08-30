@@ -1,10 +1,5 @@
 # Welcome
 
-::::{important}
-Please note that course materials are currently being revised in preparation for
-Fall 2024. The contents of this website are subject to change.
-::::
-
 Data curation is the management of data in support of analysis, use, and reuse.
 It is a critical activity within data science (and, more broadly, across the
 sciences). Without adequate curation, data cannot be understood or used effectively,
