@@ -114,8 +114,9 @@ Late Policy, and Academic Calendar page in Coursera.
 ## Late Policy
 
 Unless otherwise specified, all assignments are due at 11:59 PM US Central Time
-on the due date. We encourage everyone to finish the assignments
-before the deadline. 
+on the due date. We encourage everyone to finish the assignments before the deadline. 
+
+[Update 9/13/2024] Beginning Fall 2024,  auto-graded assignments will receive an automatic 5% penalty for up to 10 days after the due date. After 10 days no points will be awarded. Note that this does not apply to quizzes. (See CW [#237](https://campuswire.com/c/G972515EC/feed/237).
 
 If you encounter special circumstances that prevent you from completing assignments on time, please reach out to course staff via Campuswire.  Note that you may be required to submit an [Absence Letter](https://odos.illinois.edu/resources/students/absence-letters).
 
