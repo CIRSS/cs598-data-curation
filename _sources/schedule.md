@@ -75,7 +75,7 @@
 | |11.2|Provenance|<a href="https://uofi.box.com/s/555xblim1skb9ef0jvjb8gsn4d1pdmox" target="_blank">pdf</a>| | |
 | |11.3|Workflow Systems|<a href="https://uofi.box.com/s/22xe5madz9er0zqo1aiky4eamvb3w16o" target="_blank">pdf</a>| | |
 | |11.5|Provenance Standards| <a href="https://uofi.box.com/s/5qxkwxy8xotffzoustesqn47un97148g" target="_blank">pdf</a> <a href="https://uofi.box.com/s/4vfnopjm4ggwxfwsmkdbzyppdyqfhjop" target="_blank">extended</a> | | | 
-| |11.6|Computational Reproducibility| <a href="" target="_blank">pdf</a> | | | 
+| |11.6|Computational Reproducibility| <a href="https://uofi.box.com/s/renor7laknmcbwtol9ebqanq9xknpcia" target="_blank">pdf</a> | | | 
 |**12**|12|**Ethics, Law, Governance, and Policy**| |Module 12 Quiz|
 | |12.1|Definitions, types, scope, issues|<a href="" target="_blank">pdf</a>| | |
 | |12.2|Research and Data Ethics|<a href="" target="_blank">pdf</a>| | |
