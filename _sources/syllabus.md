@@ -6,7 +6,7 @@ Data curation, the management of data in support of analysis and use, is a
 critical activity within data science. Without adequate data curation data
 cannot be used effectively, efficiently, or reliably. Because of its importance
 and its challenging nature, data curation typically involves more time,
-attention, staff, and expenditures, than does data analytics.  Activities of
+jttention, staff, and expenditures, than does data analytics.  Activities of
 particular concern to data curation are data modeling, integration, workflow
 management, format conversion, provenance documentation, preservation, integrity
 and validity determination, data cleaning, standards conformance, identifier
@@ -123,6 +123,14 @@ If you encounter special circumstances that prevent you from completing assignme
 No assignments will be accepted after the last day of class.
 
 For course extensions or incompletes, please email mcs-support@illinois.edu
+
+## Campuswire Policy
+
+Do not post complete solutions publicly. While the intent is to get hlep, posting solutions may encourage cheating.
+
+Submit to Instructors and TAs for detailed feedback on your solution to a problem. Course staff will provide private feedback.
+
+If content posted to Campuswire is too detailed, course staff reserve the right to remove content or change the post to private at any time.
 
 
 ## Student Code and Policies

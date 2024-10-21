@@ -77,19 +77,18 @@
 | |11.5|Provenance Standards| <a href="https://uofi.box.com/s/5qxkwxy8xotffzoustesqn47un97148g" target="_blank">pdf</a> <a href="https://uofi.box.com/s/4vfnopjm4ggwxfwsmkdbzyppdyqfhjop" target="_blank">extended</a> | | | 
 | |11.6|Computational Reproducibility| <a href="https://uofi.box.com/s/renor7laknmcbwtol9ebqanq9xknpcia" target="_blank">pdf</a> | | | 
 |**12**|12|**Ethics, Law, Governance, and Policy**| |Module 12 Quiz|
-| |12.1|Definitions, types, scope, issues|<a href="" target="_blank">pdf</a>| | |
-| |12.2|Research and Data Ethics|<a href="" target="_blank">pdf</a>| | |
-| |12.3|Privacy Laws|<a href="" target="_blank">pdf</a>| | |
-| |12.4|Intellectual Property Laws|<a href="" target="_blank">pdf</a>| | |
-| |12.5|Science Policies|<a href="" target="_blank">pdf</a>| | |
-| |12.6|AI Law and Data Curation|<a href="" target="_blank">pdf</a>| | |
-| |12.7|Data Privacy and Anonymization|<a href="" target="_blank">pdf</a>| | |
+| |12.1|Definitions, types, scope, issues|<a href="https://uofi.box.com/s/ftxnf3ykiue42jxbu40yagkwf442601l" target="_blank">pdf</a>| | |
+| |12.2|Research and Data Ethics|<a href="https://uofi.box.com/s/pziyhk3fbxxfpu9zfs7yd5ratkkq24ih" target="_blank">pdf</a>| | |
+| |12.3|Privacy Laws|<a href="https://uofi.box.com/s/1s4rzg2gqyc9zz7f8hd73ctn7cu5ihsd" target="_blank">pdf</a>| | |
+| |12.4|De-Identification Methods|<a href="https://uofi.box.com/s/6f9oxxr16vwwafp38blp8r8hnvtw48fu" target="_blank">pdf</a>| | |
+| |12.5|Intellectual Property Laws|<a href="https://uofi.box.com/s/jihbpqk05zi6ikwnptgk3mre48fkk23d" target="_blank">pdf</a>| | |
+| |12.7|AI Law and Data Curation|<a href="" target="_blank">pdf</a>| | |
 |**13**|13|**Data Practices**| | Module 13 Quiz |
 | |13.1|Data Practices|<a href="https://uofi.box.com/s/8oz98cvnuwutfjcrrrgy8abqscnv7ol2" target="_blank">pdf</a>| | |
 | |13.2|What’s Going on in the Lab?|<a href="https://uofi.box.com/s/8ifcnzk3f6pbrk00i2pjfyk0qyjrfosv" target="_blank">pdf</a>| | |
 | |13.3|Data Sharing|<a href="https://uofi.box.com/s/8464ht0hness6t6wu0sopu7f653r362c" target="_blank">pdf</a>| | |
 | |13.4|Data Reuse|<a href="https://uofi.box.com/s/dn3fwa9anjo9evrw7h2714fl4hmpocan" target="_blank">pdf</a>| | |
-| |13.5|Trends in Data Curation Research|<a href="" target="_blank">pdf</a>| | |
+| |13.5|Trends in Data Curation Research|<a href="https://uofi.box.com/s/2wqk311gu3l4n59eeffi1e7jaksnzcbw" target="_blank">pdf</a>| | |
 |**14**|-|**Fall Break**| | |-|
 |**15**|15|**Communication**| |Module 15 Quiz|
 | |15.1|Communication Issues in Data Curation|<a href="" target="_blank">pdf</a>| | |
