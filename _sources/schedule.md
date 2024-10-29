@@ -82,7 +82,7 @@
 | |12.3|Privacy Laws|<a href="https://uofi.box.com/s/1s4rzg2gqyc9zz7f8hd73ctn7cu5ihsd" target="_blank">pdf</a>| | |
 | |12.4|De-Identification Methods|<a href="https://uofi.box.com/s/6f9oxxr16vwwafp38blp8r8hnvtw48fu" target="_blank">pdf</a>| | |
 | |12.5|Intellectual Property Laws|<a href="https://uofi.box.com/s/jihbpqk05zi6ikwnptgk3mre48fkk23d" target="_blank">pdf</a>| | |
-| |12.7|AI Law and Data Curation|<a href="" target="_blank">pdf</a>| | |
+| |12.7|AI Law and Data Curation|<a href="https://uofi.box.com/s/7degl3nykwhp6d689r4p7kafbevf0fun" target="_blank">pdf</a>| | |
 |**13**|13|**Data Practices**| | Module 13 Quiz |
 | |13.1|Data Practices|<a href="https://uofi.box.com/s/8oz98cvnuwutfjcrrrgy8abqscnv7ol2" target="_blank">pdf</a>| | |
 | |13.2|What’s Going on in the Lab?|<a href="https://uofi.box.com/s/8ifcnzk3f6pbrk00i2pjfyk0qyjrfosv" target="_blank">pdf</a>| | |
