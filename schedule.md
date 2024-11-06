@@ -91,8 +91,10 @@
 | |13.5|Trends in Data Curation Research|<a href="https://uofi.box.com/s/2wqk311gu3l4n59eeffi1e7jaksnzcbw" target="_blank">pdf</a>| | |
 |**14**|-|**Fall Break**| | |-|
 |**15**|15|**Communication**| |Module 15 Quiz|
-| |15.1|Communication Issues in Data Curation|<a href="" target="_blank">pdf</a>| | |
-| |15.2|Crises in Data-Driven Scientific Communication|<a href="" target="_blank">pdf</a>| | |
-| |15.3|The Solution Is...|<a href="" target="_blank">pdf</a>| | |
+| |15.1|Communication and Data Curation|<a href="https://uofi.box.com/s/7vc80i2u5hso01l0yox1lagess7mtf0r" target="_blank">pdf</a>| | |
+| |15.2|Information Overload|<a href="https://uofi.box.com/s/m1qf6gdxa3lv047jgox6z1fk5pv57xca" target="_blank">pdf</a>| | |
+| |15.3|Limited Access to Research|<a href="https://uofi.box.com/s/ld0shmtb9kxy38ku0u6b91kcteru0kk1" target="_blank">pdf</a>| | |
+| |15.4|Research Integrity|<a href="https://uofi.box.com/s/mjrlz3qtpgbthxm1hjs3n9unlyogl143" target="_blank">pdf</a>| | |
+| |15.5|Beyond the PDF|<a href="https://uofi.box.com/s/zeq3jas3ekvn9fs5zh4lefae6t55tnqv" target="_blank">pdf</a>| | |
 |**16**|16|**Practical Data Curation**|<a href="" target="_blank">pdf</a>| | |
 ````
