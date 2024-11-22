@@ -96,5 +96,5 @@
 | |15.3|Limited Access to Research|<a href="https://uofi.box.com/s/ld0shmtb9kxy38ku0u6b91kcteru0kk1" target="_blank">pdf</a>| | |
 | |15.4|Research Integrity|<a href="https://uofi.box.com/s/mjrlz3qtpgbthxm1hjs3n9unlyogl143" target="_blank">pdf</a>| | |
 | |15.5|Beyond the PDF|<a href="https://uofi.box.com/s/zeq3jas3ekvn9fs5zh4lefae6t55tnqv" target="_blank">pdf</a>| | |
-|**16**|16|**Practical Data Curation**|<a href="" target="_blank">pdf</a>| | |
+|**16**|16|**Course Review**|<a href="https://uofi.box.com/s/cwb97k4p81uwj0gs6slycgnu6xnnu9yc" target="_blank">pdf</a>| | |
 ````
