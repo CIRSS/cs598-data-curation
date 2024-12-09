@@ -2,9 +2,8 @@
 
 This class is currently offered only in the Fall semester to students in the Online MCS-DS program via Coursera. The TA hiring process typically begins in April.
 
-Teaching assistantship positions are available to students in
-programs designated as [reimbursable](https://grad.illinois.edu/handbook/program-tuition-waiver-designations). These are 50% appointments. In the past,
-most TAs have come from on-campus Computer Science, Statistics, and iSchool degree programs.  Online MCS-DS students are encouraged to apply. iSchool MSIM students are not eligible for TA positions.
+Teaching assistantship positions (50% appointments) are available to students in
+programs designated as [reimbursable](https://grad.illinois.edu/handbook/program-tuition-waiver-designations). In the past, most TAs have come from on-campus Computer Science, Statistics, and iSchool degree programs.  Online MCS-DS students are encouraged to apply. iSchool MSIM students are not eligible for TA positions.
 
 ## Primary responsibilities
 * Student support via online office hours and Campuswire
