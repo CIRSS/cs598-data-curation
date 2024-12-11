@@ -8,7 +8,7 @@ programs designated as [reimbursable](https://grad.illinois.edu/handbook/program
 ## Primary responsibilities
 * Student support via online office hours and Campuswire
 * Review all course materials and readings, solve all assignments and quizzes
-* Assist with overall course management in Coursera and PrairieLearn
+* Assist with overall course management in Coursera, Campuswire, and PrairieLearn
 * Participate in weekly course staff meetings
 * Other tasks as assigned, including assessment development and other contributions to course materials.
 
@@ -20,16 +20,10 @@ Minimum qualifications:
 * Cannot reside outside of the US (university policy) or in Calfornia (California labor laws)
 * [English proficiency](https://grad.illinois.edu/admissions/taengprof.htm) such as TEOFL speaking score >= 24, IELTS speaking score >=8 or passing OEAI exam.
 * Received an A in this class (Online MCS candidates only)
-* Teaching proficiency through completion of CITL Graduate Academy or CS591 TA seminar (can be enrolled simultaneously)
+* Demonstration of teaching proficiency through completion of CITL Graduate Academy or CS591 TA seminar (can be enrolled simultaneously)
 
 Preferred qualifications:
 * Prior teaching experience 
 * Experience with Coursera, Campuswire, PrairieLearn or related systems
 * Completion of prior coursework in data curation, databases, information modeling, data cleaning, text/data mining, machine learning, or similar
 * Experience with Python/Pandas, relational databases, semi-structured & graph data, privacy/anonymization methods, workflow automation, Linux administration, and containers.
-
-## 
-TAs are 
-TAs are typically required to complete the following training:
-* Mandatory Online MCS TA Onboarding Course
-* CITL Graduate Academy
