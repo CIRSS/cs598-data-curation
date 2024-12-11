@@ -14,15 +14,22 @@ programs designated as [reimbursable](https://grad.illinois.edu/handbook/program
 
 
 ## Qualifications
+Minimum qualifications:
 * Must be a current (preferred) or incoming graduate student
-* Excellent command of written and spoken English 
-* Able to effectively work in or lead a team
-* Prior teaching experience as well as experience with Coursera, Campuswire, PrairieLearn or related systems preferred
-* Preferred candidates will have completed prior coursework in data curation, databases, information modeling, data cleaning, text/data mining, machine learning, or similar
-* Preferred candidates will be very familiar with Python/Pandas, relational databases, semi-structured & graph data, and have experience with privacy/anonymization methods, workflow automation, Linux administration, and containers.
+* 3.75/4.0 minimum cumulative GPA
+* Cannot reside outside of the US (university policy) or in Calfornia (California labor laws)
+* [English proficiency](https://grad.illinois.edu/admissions/taengprof.htm) such as TEOFL speaking score >= 24, IELTS speaking score >=8 or passing OEAI exam.
+* Received an A in this class (Online MCS candidates only)
+* Teaching proficiency through completion of CITL Graduate Academy or CS591 TA seminar (can be enrolled simultaneously)
 
+Preferred qualifications:
+* Prior teaching experience 
+* Experience with Coursera, Campuswire, PrairieLearn or related systems
+* Completion of prior coursework in data curation, databases, information modeling, data cleaning, text/data mining, machine learning, or similar
+* Experience with Python/Pandas, relational databases, semi-structured & graph data, privacy/anonymization methods, workflow automation, Linux administration, and containers.
 
-## Training
+## 
+TAs are 
 TAs are typically required to complete the following training:
 * Mandatory Online MCS TA Onboarding Course
 * CITL Graduate Academy
