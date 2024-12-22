@@ -89,7 +89,7 @@ Your final grade will be calculated based on the activities listed below. Your o
 2. Assignments (15% each): There will be 4 assignments worth a total of 60% of the final grade
 3. Final exam (20%): There will be a cummulative final exam
 
-Grade distribution (square brackets and parentheses are used to indicate inclusive and exclusive endpoints):
+Grade distribution (square brackets and parentheses are used to indicate inclusive and exclusive endpoints). Maximum grade is 105% given 2% EC for survey and 3% for CW reputation level.
 
 * A+ [97-105]
 * A  [93-97)
