@@ -89,21 +89,21 @@ Your final grade will be calculated based on the activities listed below. Your o
 2. Assignments (15% each): There will be 4 assignments worth a total of 60% of the final grade
 3. Final exam (20%): There will be a cummulative final exam
 
-Grade distribution:
-* A+ 97
-* A  93
-* A- 90
-* B+ 87
-* B  83
-* B- 80
-* C+ 77
-* C  73
-* C- 70
-* D+ 67
-* D+ 63
-* D- 60
-* F < 60	
+Grade distribution (square brackets and parentheses are used to indicate inclusive and exclusive endpoints):
 
+* A+ [97-105]
+* A  [93-97)
+* A- [90-93)
+* B+ [87-90)
+* B  [83-87)
+* B- [80-83)
+* C+ [77-80)
+* C  [73-77)
+* C- [70-73)
+* D+ [67-70)
+* D+ [63-67)
+* D- [60-63)
+* F  [0-60)
 
 
 ## Assigment Deadlines
