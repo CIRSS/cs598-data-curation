@@ -1,5 +1,9 @@
 # Syllabus
 
+```{admonition} Update
+Course website and materials are currently being revised in preparation for Fall 2025.
+```
+
 ## Course Description
 
 Data curation, the management of data in support of analysis and use, is a

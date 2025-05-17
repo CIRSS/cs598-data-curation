@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 author: The University of Illinois Board of Trustees 
-copyright: 2022-2024
+copyright: 2022-2025
 logo: logo.png
 title: Foundations of Data Curation
 exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", README.md, .github/**"]
@@ -33,8 +33,10 @@ html:
   favicon: favicon.ico
   use_issues_button: true
   use_repository_button: true
+  announcement: "My announcement!"
 
 sphinx:
   config:
     html_theme_options:
       search_bar_text: "Search..."
+
