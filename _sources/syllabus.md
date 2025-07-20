@@ -80,7 +80,7 @@ The course is comprised of the following elements:
 * **Readings**. Readings are included in each module to supplement and reinforce lecture materials. Concepts from **required readings** are included in module quizzes. Supplemental readings are optional and provided for students who want to explore a particular are in more depth.
 * **Module Quizzes**. Each module concludes with a graded quiz to help ensure you understood that module's content. You will be allowed only three attempts for each quiz.
 * **Assignments**. There are four assignments for you to complete in this course. Assignments are delivered via the PrairieLearn system.
-* **Final Exam**. The course concludes with a comprehensive final exam. 
+* **Exams**. Midterm and final exams.
 * **Participation**. Student participation will be based on engagement via Campuswire and office hours.
 * **Extra Credit**. At least two extra credit opportunities will be available worth approximately 3% of the final grade.
 
@@ -90,24 +90,24 @@ The course is comprised of the following elements:
 Your final grade will be calculated based on the activities listed below. Your official final course grade will be listed in [Enterprise](https://apps.uillinois.edu/selfservice/). The course grade you see displayed in Coursera may not match your official final course grade.  
 
 1. Quizzes (20%): The lowest grade will be dropped out of 14 weekly quizzes
-2. Assignments (15% each): There will be 4 assignments worth a total of 60% of the final grade
-3. Final exam (20%): There will be a cummulative final exam
+2. Assignments (60% each): There will be 5 assignments worth a total of 60% of the final grade
+3. Midterm and Final exams (20%): Midterm and final exams will be work 20% of the final grade
 
 Grade distribution (square brackets and parentheses are used to indicate inclusive and exclusive endpoints). Maximum grade is 105% given 2% EC for survey and 3% for CW reputation level.
 
-* A+ [97-105]
-* A  [93-97)
+* A+ Instructor descretion
+* A  [94-100]
 * A- [90-93)
-* B+ [87-90)
-* B  [83-87)
-* B- [80-83)
-* C+ [77-80)
-* C  [73-77)
-* C- [70-73)
+* B+ [87-89)
+* B  [83-86)
+* B- [80-82)
+* C+ [77-79)
+* C  [73-76)
+* C- [70-72)
 * D+ [67-70)
-* D+ [63-67)
-* D- [60-63)
-* F  [0-60)
+* D  [63-66)
+* D- [60-62)
+* F  59 and below
 
 
 ## Assigment Deadlines

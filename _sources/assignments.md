@@ -6,10 +6,11 @@ Course website and materials are currently being revised in preparation for Fall
 
 | Assignment # | Information Page | Due |
 |:---:|--------------------------|--------------|
-| 1 | Data Curation Using the Relational Model | See Coursera |
-| 2 | Data Curation Using XML, JSON, and JSON-LD | See Coursera |
-| 3 | Identity and Identifier Systems | See Coursera |
-| 4 | Data Anonymization | See Coursera |
+| 1 | Data De-Identification | See Coursera |
+| 2 | Data Curation Using the Relational Model | See Coursera |
+| 3 | Data Curation Using XML, JSON, and JSON-LD | See Coursera |
+| 4 | Identity and Identifier Systems | See Coursera |
+| 5 | Practical Computational Reproducibility | See Coursera | 
 
 See Coursera for details. Assignments must be submitted by 11:59PM CT on the due date.
 
