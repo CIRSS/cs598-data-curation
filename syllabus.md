@@ -120,17 +120,17 @@ Late Policy, and Academic Calendar page in Coursera.
 Unless otherwise specified, all assignments are due at 11:59 PM US Central Time
 on the due date. We encourage everyone to finish the assignments before the deadline. 
 
-[Update 9/13/2024] Beginning Fall 2024,  auto-graded assignments will receive an automatic 5% penalty for up to 10 days after the due date. After 10 days no points will be awarded. Note that this does not apply to quizzes. (See Campuswire [#237](https://campuswire.com/c/G972515EC/feed/237)).
+All auto-graded assignments will receive an automatic 5% penality for up to 10 days after the due date. After 10 days no points will be awarded. Note that this does not apply to quizzes. 
 
 If you encounter special circumstances that prevent you from completing assignments on time, please reach out to course staff via Campuswire.  Note that you may be required to submit an [Absence Letter](https://odos.illinois.edu/resources/students/absence-letters).
 
 No assignments will be accepted after the last day of class.
 
-For course extensions or incompletes, please email mcs-support@illinois.edu
+For course extensions or incompletes, please email mcs-support@illinois.edu.
 
 ## Campuswire Policy
 
-Do not post complete solutions publicly. While the intent is to get hlep, posting solutions may encourage cheating.
+Do not post complete solutions publicly. While the intent is to get help, posting solutions may encourage cheating.
 
 Submit to Instructors and TAs for detailed feedback on your solution to a problem. Course staff will provide private feedback.
 
@@ -172,5 +172,4 @@ If you are in immediate danger call 911.
 
 ## Acknolwedgements
 
-This course includes material adapted from work by Carole Palmer, Melissa Cragin, David Dubin, 
-Karen Wickett, Bertram Ludaescher, Ruth Duerr, Simone Sacchi.
+This course includes material adapted from work by Carole Palmer, Melissa Cragin, David Dubin, Karen Wickett, Bertram Ludaescher, Ruth Duerr, Simone Sacchi.
