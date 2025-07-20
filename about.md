@@ -1,5 +1,6 @@
 # Welcome
 
+
 ```{admonition} Update
 Course website and materials are currently being revised in preparation for Fall 2025.
 ```
