@@ -11,21 +11,22 @@ Coursera is the primary source of schedule information for this class.
 ````{div} full-width
 |Module|Topic|Slides|
 |-|-------------------------------|-|
-| |**Course Overview** | <a href="https://uofi.box.com/s/mhqxs7j160muhrv1d9zewbmh9ghmo2sw" target="_blank">pdf</a> |
+| |**Course Overview** | <a href="https://uofi.box.com/s/ewlx0krtpc6ey1urjkdmmp56o2g1zokn" target="_blank">pdf</a> |
 |**1**|**Introduction to Data Curation** |
-| |What is Data Science?|<a href="https://uofi.box.com/s/1ycwqcdexw0uhmp2tqweqx5o7qqh6xe0" target="_blank">pdf</a>| |
-| |What is Data Curation?|<a href="https://uofi.box.com/s/xewtw9l2lp178dtypgtk1s1g98uhmy7t" target="_blank">pdf</a>| |
-| |Objectives, Activities and Methods|<a href="https://uofi.box.com/s/kwhq2y9vqoimj13zfzz1mo4l85tej5xz" target="_blank">pdf</a>| |
-| |Organizations, Conferences and Literature|<a href="https://uofi.box.com/s/kha1gj6iwp3pzjuvx2enf16t5mtwlttz" target="_blank">pdf</a>| |
-| |Data Curation Perspectives|<a href="https://uofi.box.com/s/hpbxtbnt6a3oqxmk0awv140pwxe9qy5u" target="_blank">pdf</a>| |
-| |Trends in Data Curation|<a href="https://uofi.box.com/s/1llhkha2otd3z2ka99jef20kll80e4rn" target="_blank">pdf</a>| |
+| |Introduction to Data Curation |<a href="https://uofi.box.com/s/7r1qvohutfvsix5v021p2yvhegvdrbxg" target="_blank">pdf</a>| |
+| |Data Lifecycle Models |<a href="https://uofi.box.com/s/9ffb4met0ve588f1zykm4m6udmao33m1" target="_blank">pdf</a>| |
+| |Data Curation Universe |<a href="https://uofi.box.com/s/ayoqbuqxcvbm1dlvownf7ea67hsegnlp" target="_blank">pdf</a>| |
+| |The Curated Data Lake |<a href="https://uofi.box.com/s/zzmx4tj0744r0rdck62uj3zagu3bfnsu" target="_blank">pdf</a>| |
+| |Curation Profile: GHCN |<a href="https://uofi.box.com/s/xdwtyxnxx1snm6zo26e2gj8v29ugt17c" target="_blank">pdf</a>| |
+| |Curation Profile: Common Crawl |<a href="https://uofi.box.com/s/9ctx93mcps0dhitfc3aa2wf8diz8426v" target="_blank">pdf</a>| |
 |**2**|**Ethics, Law, and Policy**| 
-| |Definitions, types, scope, issues|<a href="https://uofi.box.com/s/ftxnf3ykiue42jxbu40yagkwf442601l" target="_blank">pdf</a>| |
-| |Research and Data Ethics|<a href="https://uofi.box.com/s/pziyhk3fbxxfpu9zfs7yd5ratkkq24ih" target="_blank">pdf</a>| |
+| |Introduction to Ethics, Laws, and Policies|<a href="https://uofi.box.com/s/vhp88yuqgc75wyoj9srvvv6l8m1073lg" target="_blank">pdf</a>| |
+| |Research and Data Ethics|<a href="https://uofi.box.com/s/tygkm49fiqiyyv4cdu1omdmwoy3pku8b" target="_blank">pdf</a>| |
 | |Privacy Laws|<a href="https://uofi.box.com/s/1s4rzg2gqyc9zz7f8hd73ctn7cu5ihsd" target="_blank">pdf</a>| |
 | |De-Identification Methods|<a href="https://uofi.box.com/s/6f9oxxr16vwwafp38blp8r8hnvtw48fu" target="_blank">pdf</a>| |
 | |Intellectual Property Laws|<a href="https://uofi.box.com/s/jihbpqk05zi6ikwnptgk3mre48fkk23d" target="_blank">pdf</a>| |
 | |AI Law and Data Curation|<a href="https://uofi.box.com/s/7degl3nykwhp6d689r4p7kafbevf0fun" target="_blank">pdf</a>| |
+| |Curation Profile: Census ACS |<a href="https://uofi.box.com/s/ilvnmiotye2qfgx1anval2ks0ds1jhy2" target="_blank">pdf</a>| |
 |**3**|**Data Abstractions - Relations**|
 | |Data Models|<a href="https://uofi.box.com/s/ahoknr9xk40i6c9hujb4fscbyhsamx2m" target="_blank">pdf</a>| |
 | |The Problem|<a href="https://uofi.box.com/s/m94svtj33yumt5vhjc3ys7n9mxgjt6kp" target="_blank">pdf</a>| |
