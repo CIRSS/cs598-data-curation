@@ -14,8 +14,8 @@ Coursera is the primary source of schedule information for this class.
 | |**Course Overview** | <a href="https://uofi.box.com/s/ewlx0krtpc6ey1urjkdmmp56o2g1zokn" target="_blank">pdf</a> |
 |**1**|**Introduction to Data Curation** |
 | |Introduction to Data Curation |<a href="https://uofi.box.com/s/7r1qvohutfvsix5v021p2yvhegvdrbxg" target="_blank">pdf</a>| |
-| |Data Lifecycle Models |<a href="https://uofi.box.com/s/9ffb4met0ve588f1zykm4m6udmao33m1" target="_blank">pdf</a>| |
 | |Data Curation Universe |<a href="https://uofi.box.com/s/ayoqbuqxcvbm1dlvownf7ea67hsegnlp" target="_blank">pdf</a>| |
+| |Data Lifecycle Models |<a href="https://uofi.box.com/s/9ffb4met0ve588f1zykm4m6udmao33m1" target="_blank">pdf</a>| |
 | |The Curated Data Lake |<a href="https://uofi.box.com/s/zzmx4tj0744r0rdck62uj3zagu3bfnsu" target="_blank">pdf</a>| |
 | |Curation Profile: GHCN |<a href="https://uofi.box.com/s/xdwtyxnxx1snm6zo26e2gj8v29ugt17c" target="_blank">pdf</a>| |
 | |Curation Profile: Common Crawl |<a href="https://uofi.box.com/s/9ctx93mcps0dhitfc3aa2wf8diz8426v" target="_blank">pdf</a>| |
