@@ -22,7 +22,7 @@ Coursera is the primary source of schedule information for this class.
 |**2**|**Ethics, Law, and Policy**| 
 | |Introduction to Ethics, Laws, and Policies|<a href="https://uofi.box.com/s/vhp88yuqgc75wyoj9srvvv6l8m1073lg" target="_blank">pdf</a>| |
 | |Research and Data Ethics|<a href="https://uofi.box.com/s/tygkm49fiqiyyv4cdu1omdmwoy3pku8b" target="_blank">pdf</a>| |
-| |Privacy Laws|<a href="https://uofi.box.com/s/1s4rzg2gqyc9zz7f8hd73ctn7cu5ihsd" target="_blank">pdf</a>| |
+| |Privacy Laws|<a href="https://uofi.box.com/s/qwgym39c4t5ixbech6kd834y4et9fzg1" target="_blank">pdf</a>| |
 | |De-Identification Methods|<a href="https://uofi.box.com/s/6f9oxxr16vwwafp38blp8r8hnvtw48fu" target="_blank">pdf</a>| |
 | |Intellectual Property Laws|<a href="https://uofi.box.com/s/jihbpqk05zi6ikwnptgk3mre48fkk23d" target="_blank">pdf</a>| |
 | |AI Law and Data Curation|<a href="https://uofi.box.com/s/7degl3nykwhp6d689r4p7kafbevf0fun" target="_blank">pdf</a>| |
