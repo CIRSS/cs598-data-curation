@@ -1,9 +1,5 @@
 # Research Venues
 
-```{admonition} Update
-Course website and materials are currently being revised in preparation for Fall 2025.
-```
-
 Research in areas related to data curation is quite broad, spanning the fields of databases; knowledge/data engineering;
 digital curation and preservation; semantic web; provenance; as well as transparency, reproducibility, and replicability.
 

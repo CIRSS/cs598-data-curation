@@ -1,9 +1,5 @@
  # Communication
 
-```{admonition} Update
-Course website and materials are currently being revised in preparation for Fall 2025.
-```
-
 This course uses Campuswire for communication. This will be your go-to place to
 ask course content related questions, or for clarification on lecture videos and
 course assignments. Before you post a question, check if someone has already

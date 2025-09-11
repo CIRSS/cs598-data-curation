@@ -1,9 +1,5 @@
 # Schedule
 
-```{admonition} Update
-Course website and materials are currently being revised in preparation for Fall 2025.
-```
-
 Coursera is the primary source of schedule information for this class. 
 
 **Note**: To access the slides you may need to [enable Box for your NetID](https://help.uillinois.edu/TDClient/44/Portal/KB/ArticleDet?ID=2229).
