@@ -1,9 +1,5 @@
 # Course Staff
 
-```{admonition} Update
-Course website and materials are currently being revised in preparation for Fall 2025.
-```
-
 <img style="border-radius: 50%; width: 100px" src="https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/images/willis-sq.jpg"/> [Craig Willis](https://ischool.illinois.edu/people/craig-willis), Instructor
 
 <img style="border-radius: 50%; width: 100px" src="https://ischool.illinois.edu/sites/default/files/styles/normal_square/public/mi7/renear_2012_cropped_portrait.jpg"/> [Allen Renear](https://ischool.illinois.edu/people/allen-renear), Instructor
