@@ -84,7 +84,7 @@ The course is comprised of the following elements:
 Your final grade will be calculated based on the activities listed below. Your official final course grade will be listed in [Enterprise](https://apps.uillinois.edu/selfservice/). The course grade you see displayed in Coursera may not match your official final course grade.  
 
 1. Quizzes (20%): The lowest grade will be dropped out of 14 weekly quizzes
-2. Assignments (50% each): There will be 5 assignments each worth 10% of the final grade.
+2. Assignments (50%): There will be 5 assignments each worth 10% of the final grade.
 3. Midterm and Final exams (30%): Midterm and final exams will each be worth 15% of the final grade
 
 Grade distribution (square brackets and parentheses are used to indicate inclusive and exclusive endpoints). Maximum grade may exceed 100% given extra credit.
