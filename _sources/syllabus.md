@@ -73,7 +73,7 @@ The course is comprised of the following elements:
 * **Lecture Videos**. For each module, the concepts you need to know will be presented through a collection of short video lectures. You may stream these videos for playback within the browser by clicking on their titles or download the videos to watch locally. The videos usually total 1.5 to 2 hours for each module. You generally should spend at least the same amount of time digesting content in the video. 
 * **Readings**. Readings are included in each module to supplement and reinforce lecture materials. Concepts from **required readings** are included in module quizzes. Supplemental readings are optional and provided for students who want to explore a particular are in more depth.
 * **Module Quizzes**. Each module concludes with a graded quiz to help ensure you understood that module's content. You will be allowed only three attempts for each quiz.
-* **Assignments**. There are four assignments for you to complete in this course. Assignments are delivered via the PrairieLearn system.
+* **Assignments**. There are five assignments for you to complete in this course. Assignments are delivered via the PrairieLearn system.
 * **Exams**. Midterm and final exams.
 * **Participation**. Student participation will be based on engagement via Campuswire and office hours.
 * **Extra Credit**. At least two extra credit opportunities will be available worth approximately 3% of the final grade.
