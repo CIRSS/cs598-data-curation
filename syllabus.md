@@ -89,7 +89,7 @@ Your final grade will be calculated based on the activities listed below. Your o
 
 Grade distribution (square brackets and parentheses are used to indicate inclusive and exclusive endpoints). Maximum grade may exceed 100% given extra credit.
 
-* A+ Instructor discretion
+* A+ Instructor discretion (see below)
 * A  [94-100]
 * A- [90-93)
 * B+ [87-89)
@@ -102,6 +102,8 @@ Grade distribution (square brackets and parentheses are used to indicate inclusi
 * D  [63-66)
 * D- [60-62)
 * F  59 and below
+
+[Update 2025-10-12] A+ reserved for students who not only earn top scores but also demonstrate exceptional mastery or engagement beyond standard coursework. Examples include  meaningful contributions to discussions on Campuswire or during office hours as well as insightful course project work.
 
 
 ## Assigment Deadlines
