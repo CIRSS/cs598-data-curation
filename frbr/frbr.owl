@@ -11,7 +11,7 @@
     <owl:Ontology rdf:about="">
         <rdfs:label>Example FRBR Ontology for CS598</rdfs:label>
         <rdfs:comment>
-          Pedagogical example demonstrating FRBR Group 1 (Work, Expression, Manifestation, Item) 
+          Teaching example demonstrating FRBR Group 1 (Work, Expression, Manifestation, Item) 
           and Group 2 (Person, CorporateBody) entities.
         </rdfs:comment>
         <owl:versionInfo>1.1</owl:versionInfo>
