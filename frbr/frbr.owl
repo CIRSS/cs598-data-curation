@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://www.semantic.org/cs598/frbr/"
-     xml:base="http://www.semantic.org/cs598/frbr/"
+<rdf:RDF xmlns="https://cirss.github.io/cs598-data-curation/frbr/"
+     xml:base="https://cirss.github.io/cs598-data-curation/frbr/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:frbr="http://www.semantic.org/cs598/frbr#"
+     xmlns:frbr="https://cirss.github.io/cs598-data-curation/frbr#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
     <!-- Ontology metadata -->
