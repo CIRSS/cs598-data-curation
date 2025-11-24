@@ -103,8 +103,9 @@ Grade distribution (square brackets and parentheses are used to indicate inclusi
 * D- [60-62)
 * F  59 and below
 
-[Update 2025-10-12] A+ reserved for students who not only earn top scores but also demonstrate exceptional mastery or engagement beyond standard coursework. Examples include  meaningful contributions to discussions on Campuswire or during office hours as well as insightful course project work.
+[Update 2025-10-12] A+ reserved for students who not only earn top scores but also demonstrate exceptional mastery or engagement beyond standard coursework. Examples include meaningful contributions to discussions on Campuswire or during office hours as well as insightful course project work.
 
+[Update 2025-11-24] Rounding policy: Grades will be rounded to the nearest whole percent with 0.5 rounded up (e.g., 93.5 be counted as 94 (A)).
 
 ## Assigment Deadlines
 
