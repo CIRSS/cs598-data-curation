@@ -1,5 +1,9 @@
 # Assignments
 
+```{admonition} Update
+Course website and materials are currently being revised in preparation for Fall 2026.
+```
+
 | Assignment # | Information Page | Due |
 |:---:|--------------------------|--------------|
 | 1 | Data De-Identification | See Coursera |
