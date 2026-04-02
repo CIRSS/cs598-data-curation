@@ -1,5 +1,10 @@
 # Teaching Assistantships
 
+## Fall 2026 Update
+
+TA recruitment and selection will be handled by the iSchool, prioritizing iSchool and Informatics PhD students. I will post a link to application materials here when available.
+
+## Overview
 This class is currently offered only in the Fall semester to students in the Online MCS-DS program via Coursera. The TA hiring process typically begins in April.
 
 Teaching assistantship positions (50% appointments) are available to students in
