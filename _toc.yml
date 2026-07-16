@@ -6,6 +6,7 @@ options:
   numbered: false
 
 chapters:
+- file: course-updates.md
 - file: syllabus.md
 - file: assignments.md
 - file: communication.md
@@ -13,3 +14,4 @@ chapters:
 - file: staff.md
 - file: research.md
 - file: assistantships.md
+

@@ -1,7 +1,8 @@
 # Assignments
 
 ```{admonition} Update
-Course website and materials are currently being revised in preparation for Fall 2026.
+Course website and materials are currently being revised in preparation for Fall 2026. 
+See {doc}`course-updates` for details.
 ```
 
 | Assignment # | Information Page | Due |
