@@ -1,7 +1,8 @@
  # Communication
 
 ```{admonition} Update
-Course website and materials are currently being revised in preparation for Fall 2026.
+Course website and materials are currently being revised in preparation for Fall 2026. 
+See {doc}`course-updates` for details.
 ```
 
 This course uses Campuswire for communication. This will be your go-to place to
