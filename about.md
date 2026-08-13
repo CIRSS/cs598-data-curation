@@ -1,26 +1,7 @@
 # Welcome
 
-```{admonition} Update
-Course website and materials are currently being revised in preparation for Fall 2026. 
-See {doc}`course-updates` for details.
-```
+Data curation, the management of data in support of analysis and use, is a critical activity across industry, science, and public policy. Data curation is the set of practices that make data discoverable, accessible, intelligible, accountable, and reusable over time, spanning the complete lifecycle from acquisition through downstream use, reuse, and disposal. This course takes a broad view of curation as a practice that supports reliability, transparency, reproducibility, and ethical use, providing a survey of the technical infrastructure and organizational judgment curation requires at scale.
 
+## Course Map
 
-Data curation is the management of data in support of analysis, use, and reuse.
-It is a critical activity within data science (and, more broadly, across the
-sciences). Without adequate curation, data cannot be understood or used effectively,
-efficiently, or reliably. Activities of particular concern include data
-modeling, cleaning, integration, identity, integrity and validity determination,
-standards conformance, metadata management, retrieval, governance, regulatory
-compliance, and security, among others.
-
-This course provides a survey of theoretical and practical topics in data
-curation.
-
-```{image} turtles_all_the_way_down.jpg
-:alt: Turtles all the way down
-:class: bg-primary mb-1
-:width: 200px
-:align: center
-:target: https://en.wikipedia.org/wiki/Turtles_all_the_way_down
-```
+![Course Map](course-map.jpg)
