@@ -10,8 +10,12 @@ highly recommended to check the Campuswire forum at least twice a day.
 
 ## Campuswire
 
-- [Campuswire Link](https://campuswire.com/c/)<br/>
-- **Campuswire passcode:** Passcode will be posted on the Course Communication page in Coursera
+
+- [Campuswire Link](https://campuswire.com/c/G4C973CEA/)
+
+Students will be invited to Campuswire by course staff by the first day of class 
+or within 48 hours of registration.
+
 
 ## Staff Office Hours
 
